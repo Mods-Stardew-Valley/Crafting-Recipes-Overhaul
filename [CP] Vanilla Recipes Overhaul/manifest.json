@@ -1,10 +1,10 @@
 {
-   "Name": "Vanilla Recipes Overhaul",
+   "Name": "Crafting Recipes Overhaul",
    "Author": "LoganDoidao",
-   "Version": "2.5",
-   "MinimumApiVersion": "4.1", 
+   "Version": "2.6.0",
+   "MinimumApiVersion": "4.1.0", 
    "Description": "Craft some of the vanilla recipes with fewer resources or greater outputs.",
-   "UniqueID": "LoganDoidao.VanillaRecipesOverhaul",
+   "UniqueID": "LoganDoidao.CraftingRecipesOverhaul",
    "UpdateKeys": [ "Nexus:8752" ], 
    "ContentPackFor": {
        "UniqueID": "Pathoschild.ContentPatcher", 
