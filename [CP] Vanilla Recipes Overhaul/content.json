@@ -2,10 +2,11 @@
   "Format": "2.8.0",
 
   "ConfigSchema": { 
-    "Chests": { "AllowValues": "true, false", "Default": false },  
-    "AltFertilizers": { "AllowValues": "true, false", "Default": false },  
+    "Chests": { "AllowValues": "true, false", "Default": false },
+    "AltFertilizers": { "AllowValues": "true, false", "Default": false },
+    "Sprinklers": { "AllowValues": "true, false", "Default": false },
     "AddMoss": { "AllowValues": "true, false", "Default": false },
-    "Fences": { "AllowValues": "true, false", "Default": false },  
+    "Fences": { "AllowValues": "true, false", "Default": false },
     "Rings": { "AllowValues": "true, false",  "Default": false },
     "Baits": { "AllowValues": "true, false", "Default": false },
     "FishHooks": { "AllowValues": "true, false", "Default": false },
@@ -13,7 +14,6 @@
     "Floring": { "AllowValues": "true, false", "Default": false },
     "Totens": { "AllowValues": "true, false", "Default": false },   
     "Bombs": { "AllowValues": "true, false", "Default": false },  
-    "Sprinklers": { "AllowValues": "true, false", "Default": false },
     "Signs": { "AllowValues": "true, false", "Default": false }
      },
 
@@ -23,19 +23,14 @@
       "Action": "EditData",
       "Target": "Data/CraftingRecipes",
       "Entries": {
-
-  
-  "Grass Starter": "771 4/Field/297/false/null/",
-  "Blue Grass Starter": "771 25 Moss 10 MysticSyrup 1/Field/BlueGrassStarter/false/null/",
-  "Gate": "388 5/Home/325/false/default/",
-  
-
-  
-  
-  "Scarecrow": "388 15 330 2 771 10/Home/8/true/Farming 1/",
-  "Deluxe Scarecrow": "388 25 709 1 771 20/Home/167/true/null/",
-  "Bee House": "388 15 92 5 335 1 724 1/Home/10/true/Farming 3/",
-  "Keg": "388 15 709 4 335 1 725 1/Home/12/true/Farming 8/",
+        "Chest": "388 10/Home/130/true/default/", //Custo de produção reduzido
+        "Grass Starter": "771 4/Field/297/false/null/", //Custo de produção reduzido
+        "Blue Grass Starter": "771 5 Moss 2 MysticSyrup 1/Field/BlueGrassStarter/false/null/", //Custo de produção reduzido
+        "Gate": "388 4/Home/325/false/default/", //Custo de produção reduzido
+        "Scarecrow": "388 15 771 10/Home/8/true/Farming 1/", //Custo de produção reduzido
+        "Deluxe Scarecrow": "388 25 709 1 771 20/Home/167/true/null/", //Custo de produção reduzido
+        "Bee House": "388 15 92 5 335 1/Home/10/true/Farming 3/", //Custo de produção reduzido
+        "Keg": "388 15 709 4 335 1 92 1/Home/12/true/Farming 8/", //Custo de produção reduzido
   "Cask": "388 10 709 1/Home/163/true/null/",
   "Dehydrator": "388 15 330 2 82 1/Home/Dehydrator/true/null/",
   "Furnace": "378 10 390 20/Home/13/true/l 2/",
@@ -44,10 +39,7 @@
   "Mini-Forge": "852 5 335 10 336 10 337 5/Home/MiniForge/true/l 2/",
   "Garden Pot": "330 1 390 10 338 1/Home/62/true/null/",
   
-  "Wood Sign": "388 25/Home/37/true/default/",
-  "Stone Sign": "390 25/Home/38/true/default/",
-  "Dark Sign": "767 5 881 5/Home/39/true/f Krobus 3/",
-  "Text Sign": "388 25/Home/TextSign/true/default/",
+  
   
   "Cheese Press": "388 20 390 15 709 5 334 1/Home/16/true/Farming 6/",
   "Mayonnaise Machine": "388 10 390 15 86 1 334 1/Home/24/true/Farming 2/",
@@ -72,29 +64,17 @@
 
   
   "Staircase": "390 90/Field/71/true/Mining 2/",
-  "Flute Block": "388 10 378 2 771 20/Home/464/false/null/",
-  "Drum Block": "390 10 378 2 771 20/Home/463/false/null/",
-  
-  
-  "Tree Fertilizer": "771 5 390 5/Field/805/false/s Foraging 7/",
-  
-  "Basic Fertilizer": "92 1/Field/368 10/false/s Farming 1/",
-  "Quality Fertilizer": "92 2 -4 1/Field/369 10/false/s Farming 9/",
-  "Deluxe Fertilizer": "337 1 92 40/Field/919 10/false/null/",
-  
-  "Basic Retaining Soil": "390 2/Field/370 10/false/s Farming 4/",
-  "Quality Retaining Soil": "390 3 330 1/Field/371 10/false/s Farming 7/",
-  "Deluxe Retaining Soil": "390 5 771 3 330 1/Field/920 10/false/null/",
-  
-  "Speed-Gro": "771 3 330 1/Field/465 10/false/s Farming 3/",
-  "Deluxe Speed-Gro": "725 1 881 1/Field/466 10/false/s Farming 8/",
-  "Hyper Speed-Gro": "909 1 881 1 768 1/Field/918 10/false/null/",
-  
-  
-  
-  "Cherry Bomb": "378 1 382 1/Field/286/false/Mining 1/",
-  "Bomb": "380 1 382 1/Field/287/false/Mining 6/",
-  "Mega Bomb": "384 1 768 1 769 1/Field/288/false/Mining 8/",
+    
+  "Tree Fertilizer": "771 5 390 5/Field/805 5/false/s Foraging 7/", //Saida aumentada para 5
+  "Basic Fertilizer": "92 1/Field/368 10/false/s Farming 1/", //Saida aumentada para 10
+  "Quality Fertilizer": "92 2 -4 1/Field/369 10/false/s Farming 9/", //Saida aumentada para 10
+  "Deluxe Fertilizer": "337 1 92 40/Field/919 10/false/null/", //Saida aumentada para 10
+  "Basic Retaining Soil": "390 2/Field/370 10/false/s Farming 4/", //Saida aumentada para 10
+  "Quality Retaining Soil": "390 3 330 1/Field/371 10/false/s Farming 7/", //Saida aumentada para 10
+  "Deluxe Retaining Soil": "390 5 771 3 330 1/Field/920 10/false/null/", //Saida aumentada para 10
+  "Speed-Gro": "771 3 330 1/Field/465 10/false/s Farming 3/", //Saida aumentada para 10
+  "Deluxe Speed-Gro": "725 1 881 1/Field/466 10/false/s Farming 8/", //Saida aumentada para 10
+  "Hyper Speed-Gro": "909 1 881 1 768 1/Field/918 10/false/null/", //Saida aumentada para 10
   
   "Explosive Ammo": "378 1 382 1/Home/441 10/false/Combat 8/",
   
@@ -149,10 +129,9 @@
       "Action": "EditData",
       "Target": "Data/CraftingRecipes",
       "Entries": {
-        "Chest": "388 10/Home/130/true/default/",
-        "Big Chest": "388 50 334/Home/BigChest/true/null/",
-        "Stone Chest": "390 50/Home/232/true/null/",
-        "Big Stone Chest": "390 250/Home/BigStoneChest/true/null/"
+        "Big Chest": "388 40 334/Home/BigChest/true/null/",
+        "Stone Chest": "390 25/Home/232/true/null/",
+        "Big Stone Chest": "390 100/Home/BigStoneChest/true/null/"
       }
     },
 
@@ -316,7 +295,9 @@
       "Action": "EditData",
       "Target": "Data/CraftingRecipes",
       "Entries": {
-        "Moss": "771 4 92 2 330 1/Field/Moss/true/Foraging 3/"
+        "Cherry Bomb": "378 1 382 1/Field/286/false/Mining 1/",
+        "Bomb": "380 1 382 1/Field/287/false/Mining 6/",
+        "Mega Bomb": "384 1 768 1 769 1/Field/288/false/Mining 8/"
       }
     },
 
@@ -327,7 +308,10 @@
       "Action": "EditData",
       "Target": "Data/CraftingRecipes",
       "Entries": {
-        "Moss": "771 4 92 2 330 1/Field/Moss/true/Foraging 3/"
+        "Wood Sign": "388 25/Home/37/true/default/",
+        "Stone Sign": "390 25/Home/38/true/default/",
+        "Dark Sign": "767 5 881 5/Home/39/true/f Krobus 3/",
+        "Text Sign": "388 25/Home/TextSign/true/default/"
       }
     }
 
