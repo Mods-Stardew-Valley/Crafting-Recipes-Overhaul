@@ -3,21 +3,43 @@
 
   "ConfigSchema": { 
     "Chests": { "AllowValues": "true, false", "Default": false,
-    "Name": "{{i18n: chests.name}}",
-    "Description": "{{i18n: chests.desc}}" },
+    "Name": "{{i18n: Chests.name}}", "Description": "{{i18n: Chests.desc}}" },
     
-    "AltFertilizers": { "AllowValues": "true, false", "Default": false },
-    "Sprinklers": { "AllowValues": "true, false", "Default": false },
-    "AddMoss": { "AllowValues": "true, false", "Default": false },
-    "Fences": { "AllowValues": "true, false", "Default": false },
-    "Rings": { "AllowValues": "true, false",  "Default": false },
-    "Baits": { "AllowValues": "true, false", "Default": false },
-    "FishHooks": { "AllowValues": "true, false", "Default": false },
-    "Ilumination": { "AllowValues": "true, false", "Default": false },
-    "Floring": { "AllowValues": "true, false", "Default": false },
-    "Totens": { "AllowValues": "true, false", "Default": false },   
-    "Bombs": { "AllowValues": "true, false", "Default": false },  
-    "Signs": { "AllowValues": "true, false", "Default": false }
+    "AltFertilizers": { "AllowValues": "true, false", "Default": false,
+    "Name": "{{i18n: AltFertilizers.name}}", "Description": "{{i18n: AltFertilizers.desc}}"  },
+    
+    "Sprinklers": { "AllowValues": "true, false", "Default": false,
+    "Name": "{{i18n: Sprinklers.name}}", "Description": "{{i18n: Sprinklers.desc}}"  },
+    
+    "AddMoss": { "AllowValues": "true, false", "Default": false,
+    "Name": "{{i18n: AddMoss.name}}", "Description": "{{i18n: AddMoss.desc}}"  },
+    
+    "Fences": { "AllowValues": "true, false", "Default": false,
+    "Name": "{{i18n: Fences.name}}", "Description": "{{i18n: Fences.desc}}"  },
+    
+    "Rings": { "AllowValues": "true, false",  "Default": false,
+    "Name": "{{i18n: Rings.name}}", "Description": "{{i18n: Rings.desc}}"  },
+    
+    "Baits": { "AllowValues": "true, false", "Default": false,
+    "Name": "{{i18n: Baits.name}}", "Description": "{{i18n: Baits.desc}}"  },
+    
+    "FishHooks": { "AllowValues": "true, false", "Default": false,
+    "Name": "{{i18n: FishHooks.name}}", "Description": "{{i18n: FishHooks.desc}}"  },
+    
+    "Lighting": { "AllowValues": "true, false", "Default": false,
+    "Name": "{{i18n: Lighting.name}}", "Description": "{{i18n: Lighting.desc}}"  },
+    
+    "Flooring": { "AllowValues": "true, false", "Default": false,
+    "Name": "{{i18n: Flooring.name}}", "Description": "{{i18n: Flooring.desc}}"  },
+    
+    "Totems": { "AllowValues": "true, false", "Default": false,
+    "Name": "{{i18n: Totems.name}}", "Description": "{{i18n: Totems.desc}}"  },   
+    
+    "Bombs": { "AllowValues": "true, false", "Default": false,
+    "Name": "{{i18n: Bombs.name}}", "Description": "{{i18n: Bombs.desc}}"  },  
+    
+    "Signs": { "AllowValues": "true, false", "Default": false,
+    "Name": "{{i18n: Signs.name}}", "Description": "{{i18n: Signs.desc}}"  }
      },
 
   //Modificações padrão sem condição no GMCM    
