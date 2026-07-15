@@ -1,4 +1,4 @@
-Guia do projeto Vanila Recipes Overhaul
+Guia do projeto Crafting Recipes Overhaul
 
 Alterações padrão feitas nos seguintes itens:
 
@@ -53,3 +53,8 @@ Compatibilidade com GMCM adicionada para Alterações Opcionais (por padrão est
 
 Receitas alternativas adicionadas com condição no GMCM
     Falta editar as receitas alternativas
+
+
+    ## Changelog
+
+Veja o histórico completo em [CHANGELOG.md]
