@@ -1,5 +1,32 @@
 Guia do projeto Crafting Recipes Overhaul
 
+Itens não alterados
+
+   Torch
+   Field Snack
+   Bug Steak
+   Garden Pot
+   Seed Maker
+   Mini-Jukebox
+   Staircase
+   Iron Fence
+   Transmute (Fe)
+   Transmute (Au)
+   Jack-O-Lantern
+   Wicked Statue
+   Skull Brazier
+   Marble Brazier
+   Oil Of Garlic
+   Life Elixir
+   Farm Computer
+   Geode Crusher
+   Solar Panel
+   Bone Mill
+   Heavy Tapper
+   Hopper
+
+   Statue Of The Dwarf King
+
 Alterações padrão feitas nos seguintes itens:
 
     * Chest - reduzido custo para 10 madeira

@@ -8,7 +8,7 @@
     "AltFertilizers.desc": "Adiciona receitas alternativas para os fertilizantes com outros materiais, e modificas os niveis de desbloqueio das receitas.",
 
     "Sprinklers.name": "Aspersores",
-    "Sprinklers.desc": "Reduz o custo de produção dos aspersores e modifica os niveis para desbloqueio das receitas.",
+    "Sprinklers.desc": "Modifica a receita de produção dos aspersores e altera os niveis para desbloqueio das receitas.",
 
     "AddMoss.name": "Adicionar Musgo",
     "AddMoss.desc": "Adiciona uma receita para a produção do musgo no nivel 3 de coleta.",
@@ -20,7 +20,7 @@
     "Rings.desc": "Reduz o custo de produção para os aneis.",
     
     "Baits.name": "Iscas",
-    "Baits.desc": "Aumenta a quantidade de iscas produzidas com os mesmos materiais.",
+    "Baits.desc": "Aumenta a quantidade de iscas produzidas com os menos materiais.",
 
     "FishHooks.name": "Anzóis e Boias",
     "FishHooks.desc": "Reduz custos de produção dos itens.",
