@@ -1,0 +1,42 @@
+//Hungarian Translation
+//hu.json
+{
+    "Chests.name": "Ládák",
+    "Chests.desc": "Jelentősen csökkenti mindkét ládatípus elkészítéséhez szükséges alapanyagok mennyiségét.",
+
+    "AltFertilizers.name": "Alternatív Trágyák",
+    "AltFertilizers.desc": "Alternatív trágyarecepteket ad hozzá más alapanyagok felhasználásával, valamint eltérő feloldási szintekkel.",
+
+    "Sprinklers.name": "Öntözőberendezések",
+    "Sprinklers.desc": "Csökkenti az öntözőberendezések elkészítési költségét, és alacsonyabb szinthez köti a receptek feloldását.",
+
+    "AddMoss.name": "Moha Hozzáadása",
+    "AddMoss.desc": "Hozzáad egy receptet a moha előállításához a 3. Gyűjtögetés szinten.",
+
+    "Fences.name": "Kerítések",
+    "Fences.desc": "Növeli az ugyanannyi alapanyagból készíthető kerítések számát.",
+
+    "Rings.name": "Gyűrűk",
+    "Rings.desc": "Csökkenti a gyűrűk elkészítési költségét.",
+
+    "Baits.name": "Csalik",
+    "Baits.desc": "Növeli az ugyanazon alapanyagokból készíthető csalik mennyiségét.",
+
+    "FishHooks.name": "Horgok",
+    "FishHooks.desc": "Csökkenti ezen tárgyak elkészítési költségét.",
+
+    "Lighting.name": "Világítás",
+    "Lighting.desc": "Csökkenti a felhasznált alapanyagok mennyiségét, és egyszerűbbé, valamint hagyományosabbá teszi a többi receptet.",
+
+    "Flooring.name": "Padlóburkolatok",
+    "Flooring.desc": "Növeli az ugyanazon erőforrásokból készíthető padlóburkolatok mennyiségét.",
+
+    "Totems.name": "Totemek",
+    "Totems.desc": "Csökkenti az elkészítési költségeket, és néhány alapanyagot lecserél, hogy a totemek elkészítése könnyebb legyen.",
+
+    "Bombs.name": "Bombák",
+    "Bombs.desc": "Csökkenti a költségeket és növeli az elkészített bombák mennyiségét.",
+
+    "Signs.name": "Táblák",
+    "Signs.desc": "Csökkenti egy tábla elkészítéséhez szükséges alapanyagok mennyiségét."
+}

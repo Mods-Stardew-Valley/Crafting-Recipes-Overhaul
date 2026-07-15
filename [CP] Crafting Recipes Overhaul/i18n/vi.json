@@ -1,0 +1,42 @@
+//Vietnamese Translation
+//vi.json
+{
+    "Chests.name": "Rương",
+    "Chests.desc": "Giảm đáng kể lượng nguyên liệu cần thiết để chế tạo cả hai loại rương.",
+
+    "AltFertilizers.name": "Phân Bón Thay Thế",
+    "AltFertilizers.desc": "Thêm các công thức phân bón thay thế sử dụng nguyên liệu khác và thay đổi cấp độ mở khóa.",
+
+    "Sprinklers.name": "Vòi Phun Nước",
+    "Sprinklers.desc": "Giảm chi phí chế tạo vòi phun nước và hạ thấp cấp độ cần thiết để mở khóa công thức.",
+
+    "AddMoss.name": "Thêm Rêu",
+    "AddMoss.desc": "Thêm công thức chế tạo rêu ở cấp 3 Kỹ năng Hái Lượm.",
+
+    "Fences.name": "Hàng Rào",
+    "Fences.desc": "Tăng số lượng hàng rào được chế tạo với cùng một lượng nguyên liệu.",
+
+    "Rings.name": "Nhẫn",
+    "Rings.desc": "Giảm chi phí chế tạo nhẫn.",
+
+    "Baits.name": "Mồi Câu",
+    "Baits.desc": "Tăng số lượng mồi câu được chế tạo với cùng một lượng nguyên liệu.",
+
+    "FishHooks.name": "Lưỡi Câu",
+    "FishHooks.desc": "Giảm chi phí chế tạo các vật phẩm này.",
+
+    "Lighting.name": "Chiếu Sáng",
+    "Lighting.desc": "Giảm lượng nguyên liệu sử dụng và điều chỉnh các công thức khác để chúng đơn giản và thông dụng hơn.",
+
+    "Flooring.name": "Sàn Nhà",
+    "Flooring.desc": "Tăng số lượng sàn được chế tạo với cùng một lượng tài nguyên.",
+
+    "Totems.name": "Vật Tổ",
+    "Totems.desc": "Giảm chi phí chế tạo và thay thế một số nguyên liệu để việc chế tạo vật tổ trở nên dễ dàng hơn.",
+
+    "Bombs.name": "Bom",
+    "Bombs.desc": "Giảm chi phí và tăng số lượng chế tạo.",
+
+    "Signs.name": "Biển Báo",
+    "Signs.desc": "Giảm lượng nguyên liệu cần thiết để chế tạo một biển báo."
+}

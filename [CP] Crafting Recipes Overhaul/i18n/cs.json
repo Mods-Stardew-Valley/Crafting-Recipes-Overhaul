@@ -1,0 +1,42 @@
+//Czech Translation
+//cs.json
+{
+    "Chests.name": "Truhly",
+    "Chests.desc": "Výrazně snižuje množství materiálů potřebných k výrobě obou typů truhel.",
+
+    "AltFertilizers.name": "Alternativní Hnojiva",
+    "AltFertilizers.desc": "Přidává alternativní recepty na hnojiva s použitím jiných materiálů a odlišnými úrovněmi odemčení.",
+
+    "Sprinklers.name": "Zavlažovače",
+    "Sprinklers.desc": "Snižuje výrobní náklady zavlažovačů a snižuje požadovanou úroveň pro odemčení receptů.",
+
+    "AddMoss.name": "Přidat Mech",
+    "AddMoss.desc": "Přidává recept na výrobu mechu na 3. úrovni Sběratelství.",
+
+    "Fences.name": "Ploty",
+    "Fences.desc": "Zvyšuje počet plotů vyrobených ze stejného množství materiálů.",
+
+    "Rings.name": "Prsteny",
+    "Rings.desc": "Snižuje výrobní náklady prstenů.",
+
+    "Baits.name": "Návnady",
+    "Baits.desc": "Zvyšuje množství návnad vyrobených ze stejných materiálů.",
+
+    "FishHooks.name": "Rybářské Háčky",
+    "FishHooks.desc": "Snižuje výrobní náklady těchto předmětů.",
+
+    "Lighting.name": "Osvětlení",
+    "Lighting.desc": "Snižuje množství použitých surovin a upravuje další recepty tak, aby byly jednodušší a běžnější.",
+
+    "Flooring.name": "Podlahy",
+    "Flooring.desc": "Zvyšuje množství vyrobené ze stejných surovin.",
+
+    "Totems.name": "Totemy",
+    "Totems.desc": "Snižuje výrobní náklady a nahrazuje některé materiály, aby byla výroba totemů jednodušší.",
+
+    "Bombs.name": "Bomby",
+    "Bombs.desc": "Snižuje náklady a zvyšuje vyrobené množství.",
+
+    "Signs.name": "Cedule",
+    "Signs.desc": "Snižuje množství materiálů potřebných k výrobě jedné cedule."
+}
