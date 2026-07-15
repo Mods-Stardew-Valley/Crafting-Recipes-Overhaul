@@ -4,39 +4,39 @@
     "Chests.desc": "Reduz bastante a quantidade de material necessario para produzir qualquer uma das caixas.",
 
     "AltFertilizers.name": "Fertilizantes Alternativos",
-    "AltFertilizers.desc": "It adds alternative fertilizers to the game, which can be used to fertilize crops.",
+    "AltFertilizers.desc": "Adiciona receitas alternativas para os fertilizantes com outros materiais, e modificas os niveis de desbloqueio das receitas.",
 
-    "Sprinklers.name": "Sprinklers",
-    "Sprinklers.desc": "It adds sprinklers to the game, which can be used to water crops automatically.",
+    "Sprinklers.name": "Aspersores",
+    "Sprinklers.desc": "Reduz o custo de produção dos aspersores e modifica os niveis para desbloqueio das receitas.",
 
-    "AddMoss.name": "Add Moss",
-    "AddMoss.desc": "It adds moss to the game, which can be used for various crafting recipes.",
+    "AddMoss.name": "Adicionar Musgo",
+    "AddMoss.desc": "Adiciona uma receita para a produção do musgo no nivel 3 de coleta.",
 
-    "Fences.name": "Fences",
-    "Fences.desc": "It reduces the amount of materials needed to produce the fences.",
+    "Fences.name": "Cercas",
+    "Fences.desc": "Aumenta a quantidade de cercas produzidas com a mesma quantidade de material.",
 
-    "Rings.name": "Rings",
-    "Rings.desc": " ",
+    "Rings.name": "Aneis",
+    "Rings.desc": "Reduz o custo de produção para os aneis.",
     
-    "Baits.name": "Baits",
-    "Baits.desc": " ",
+    "Baits.name": "Iscas",
+    "Baits.desc": "Aumenta a quantidade de iscas produzidas com os mesmos materiais.",
 
-    "FishHooks.name": "Fishhooks",
+    "FishHooks.name": "Anzóis e Boias",
     "FishHooks.desc": " ",
 
-    "Lighting.name": "Baits",
+    "Lighting.name": "Iluminação",
     "Lighting.desc": " ",
 
-    "Flooring.name": "Baits",
+    "Flooring.name": "Pisos e Caminhos",
     "Flooring.desc": " ",
 
-    "Totems.name": "Baits",
+    "Totems.name": "Totens",
     "Totems.desc": " ",
 
-    "Bombs.name": "Baits",
+    "Bombs.name": "Bombas",
     "Bombs.desc": " ",
 
-    "Signs.name": "Signs",
+    "Signs.name": "Placas",
     "Signs.desc": " "
 
 

@@ -1,25 +1,24 @@
 {
-
     "Chests.name": "Chests",
     "Chests.desc": "It significantly reduces the amount of material needed to produce either chest.",
 
     "AltFertilizers.name": "Alternative Fertilizers",
-    "AltFertilizers.desc": "It adds alternative fertilizers to the game, which can be used to fertilize crops.",
+    "AltFertilizers.desc": "It adds alternative recipes for fertilizers using other materials, and different levels for unlocking them.",
 
     "Sprinklers.name": "Sprinklers",
-    "Sprinklers.desc": "It adds sprinklers to the game, which can be used to water crops automatically.",
+    "Sprinklers.desc": "It reduces the production cost of sprinklers and lowers the thresholds for unlocking the recipe.",
 
     "AddMoss.name": "Add Moss",
-    "AddMoss.desc": "It adds moss to the game, which can be used for various crafting recipes.",
+    "AddMoss.desc": "Adds a recipe for moss production at foraging level 3.",
 
     "Fences.name": "Fences",
-    "Fences.desc": "It reduces the amount of materials needed to produce the fences.",
+    "Fences.desc": "It increases the number of fences produced with the same amount of material.",
 
     "Rings.name": "Rings",
-    "Rings.desc": " ",
+    "Rings.desc": "It reduces the production cost for the rings.",
     
     "Baits.name": "Baits",
-    "Baits.desc": " ",
+    "Baits.desc": "It increases the quantity of bait produced with the same materials.",
 
     "FishHooks.name": "Fishhooks",
     "FishHooks.desc": " ",
