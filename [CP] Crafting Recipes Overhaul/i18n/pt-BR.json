@@ -1,0 +1,42 @@
+//Brasilian Translation
+//pt-BR.json
+{
+    "Chests.name": "Caixas",
+    "Chests.desc": "Reduz bastante a quantidade de material necessario para produzir qualquer uma das caixas.",
+
+    "AltFertilizers.name": "Fertilizantes Alternativos",
+    "AltFertilizers.desc": "Adiciona receitas alternativas para os fertilizantes com outros materiais, e modificas os niveis de desbloqueio das receitas.",
+
+    "Sprinklers.name": "Aspersores",
+    "Sprinklers.desc": "Reduz o custo de produção dos aspersores e modifica os niveis para desbloqueio das receitas.",
+
+    "AddMoss.name": "Adicionar Musgo",
+    "AddMoss.desc": "Adiciona uma receita para a produção do musgo no nivel 3 de coleta.",
+
+    "Fences.name": "Cercas",
+    "Fences.desc": "Aumenta a quantidade de cercas produzidas com a mesma quantidade de material.",
+
+    "Rings.name": "Aneis",
+    "Rings.desc": "Reduz o custo de produção para os aneis.",
+    
+    "Baits.name": "Iscas",
+    "Baits.desc": "Aumenta a quantidade de iscas produzidas com os mesmos materiais.",
+
+    "FishHooks.name": "Anzóis e Boias",
+    "FishHooks.desc": "Reduz custos de produção dos itens.",
+
+    "Lighting.name": "Iluminação",
+    "Lighting.desc": "Reduz materiais usados e altera outras para receitas mais faceis e convencionais.",
+
+    "Flooring.name": "Pisos e Caminhos",
+    "Flooring.desc": "Aumenta a quantidade criada com os mesmo recursos.",
+
+    "Totems.name": "Totens",
+    "Totems.desc": "Reduz custos de produção e troca alguns materiais para facilitar a confecção dos Totens.",
+
+    "Bombs.name": "Bombas",
+    "Bombs.desc": "Custos reduzidos e quantidade produzida aumentada.",
+
+    "Signs.name": "Placas",
+    "Signs.desc": "Reduz a quantidade de material necessaria para produzir uma placa."
+}

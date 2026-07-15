@@ -1,45 +1,42 @@
+//Portuguese Translation
+//pt.json
 {
-
-    "Chests.name": "Caixas",
-    "Chests.desc": "Reduz bastante a quantidade de material necessario para produzir qualquer uma das caixas.",
+    "Chests.name": "Baús",
+    "Chests.desc": "Reduz significativamente a quantidade de materiais necessária para fabricar qualquer um dos baús.",
 
     "AltFertilizers.name": "Fertilizantes Alternativos",
-    "AltFertilizers.desc": "Adiciona receitas alternativas para os fertilizantes com outros materiais, e modificas os niveis de desbloqueio das receitas.",
+    "AltFertilizers.desc": "Adiciona receitas alternativas para fertilizantes utilizando outros materiais e diferentes níveis para as desbloquear.",
 
     "Sprinklers.name": "Aspersores",
-    "Sprinklers.desc": "Reduz o custo de produção dos aspersores e modifica os niveis para desbloqueio das receitas.",
+    "Sprinklers.desc": "Reduz o custo de fabrico dos aspersores e diminui os níveis necessários para desbloquear as receitas.",
 
     "AddMoss.name": "Adicionar Musgo",
-    "AddMoss.desc": "Adiciona uma receita para a produção do musgo no nivel 3 de coleta.",
+    "AddMoss.desc": "Adiciona uma receita para produzir musgo no nível 3 de Recolha.",
 
     "Fences.name": "Cercas",
-    "Fences.desc": "Aumenta a quantidade de cercas produzidas com a mesma quantidade de material.",
+    "Fences.desc": "Aumenta a quantidade de cercas produzidas com a mesma quantidade de materiais.",
 
-    "Rings.name": "Aneis",
-    "Rings.desc": "Reduz o custo de produção para os aneis.",
-    
-    "Baits.name": "Iscas",
-    "Baits.desc": "Aumenta a quantidade de iscas produzidas com os mesmos materiais.",
+    "Rings.name": "Anéis",
+    "Rings.desc": "Reduz o custo de fabrico dos anéis.",
 
-    "FishHooks.name": "Anzóis e Boias",
-    "FishHooks.desc": " ",
+    "Baits.name": "Iscos",
+    "Baits.desc": "Aumenta a quantidade de isco produzida com os mesmos materiais.",
+
+    "FishHooks.name": "Anzóis",
+    "FishHooks.desc": "Reduz os custos de fabrico dos itens.",
 
     "Lighting.name": "Iluminação",
-    "Lighting.desc": " ",
+    "Lighting.desc": "Reduz a quantidade de ingredientes utilizada e adapta outras receitas para as tornar mais simples e convencionais.",
 
-    "Flooring.name": "Pisos e Caminhos",
-    "Flooring.desc": " ",
+    "Flooring.name": "Pavimentos",
+    "Flooring.desc": "Aumenta a quantidade produzida com os mesmos recursos.",
 
     "Totems.name": "Totens",
-    "Totems.desc": " ",
+    "Totems.desc": "Reduz os custos de fabrico e substitui alguns materiais para facilitar a produção dos Totens.",
 
     "Bombs.name": "Bombas",
-    "Bombs.desc": " ",
+    "Bombs.desc": "Reduz os custos e aumenta a quantidade produzida.",
 
     "Signs.name": "Placas",
-    "Signs.desc": " "
-
-
-
-
+    "Signs.desc": "Reduz a quantidade de materiais necessária para fabricar uma placa."
 }

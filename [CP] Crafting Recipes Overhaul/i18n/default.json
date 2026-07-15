@@ -1,44 +1,42 @@
+//English Translation
+//default.json
 {
     "Chests.name": "Chests",
-    "Chests.desc": "It significantly reduces the amount of material needed to produce either chest.",
+    "Chests.desc": "Significantly reduces the amount of material needed to produce either chest.",
 
     "AltFertilizers.name": "Alternative Fertilizers",
-    "AltFertilizers.desc": "It adds alternative recipes for fertilizers using other materials, and different levels for unlocking them.",
+    "AltFertilizers.desc": "Adds alternative recipes for fertilizers using other materials, and different levels for unlocking them.",
 
     "Sprinklers.name": "Sprinklers",
-    "Sprinklers.desc": "It reduces the production cost of sprinklers and lowers the thresholds for unlocking the recipe.",
+    "Sprinklers.desc": "Reduces the production cost of sprinklers and lowers the thresholds for unlocking the recipe.",
 
     "AddMoss.name": "Add Moss",
     "AddMoss.desc": "Adds a recipe for moss production at foraging level 3.",
 
     "Fences.name": "Fences",
-    "Fences.desc": "It increases the number of fences produced with the same amount of material.",
+    "Fences.desc": "Increases the number of fences produced with the same amount of material.",
 
     "Rings.name": "Rings",
-    "Rings.desc": "It reduces the production cost for the rings.",
+    "Rings.desc": "Reduces the production cost for the rings.",
     
     "Baits.name": "Baits",
-    "Baits.desc": "It increases the quantity of bait produced with the same materials.",
+    "Baits.desc": "Increases the quantity of bait produced with the same materials.",
 
     "FishHooks.name": "Fishhooks",
-    "FishHooks.desc": " ",
+    "FishHooks.desc": "Reduces the production costs of the items.",
 
-    "Lighting.name": "Baits",
-    "Lighting.desc": " ",
+    "Lighting.name": "Lighting",
+    "Lighting.desc": "Reduces the amount of ingredients used and adapts other recipes to make them easier and more conventional.",
 
-    "Flooring.name": "Baits",
-    "Flooring.desc": " ",
+    "Flooring.name": "Flooring",
+    "Flooring.desc": "Increases the quantity created with the same resources.",
 
-    "Totems.name": "Baits",
-    "Totems.desc": " ",
+    "Totems.name": "Totems",
+    "Totems.desc": "Reduces production costs and substitutes some materials to make the production of the Totems easier.",
 
-    "Bombs.name": "Baits",
-    "Bombs.desc": " ",
+    "Bombs.name": "Bombs",
+    "Bombs.desc": "Reduced costs and increased production.",
 
     "Signs.name": "Signs",
-    "Signs.desc": " "
-
-
-
-
+    "Signs.desc": "Reduces the amount of material needed to produce one sign."
 }
