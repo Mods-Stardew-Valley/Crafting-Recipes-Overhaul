@@ -3,43 +3,43 @@
 
   "ConfigSchema": { 
     "Chests": { "AllowValues": "true, false", "Default": false,
-    "Name": "{{i18n: Chests.name}}", "Description": "{{i18n: Chests.desc}}" },
+    "Name": "{{i18n:config.Chests.name}}", "Description": "{{i18n:config.Chests.desc}}" },
     
     "AltFertilizers": { "AllowValues": "true, false", "Default": false,
-    "Name": "{{i18n: AltFertilizers.name}}", "Description": "{{i18n: AltFertilizers.desc}}"  },
+    "Name": "{{i18n:config.AltFertilizers.name}}", "Description": "{{i18n:config.AltFertilizers.desc}}"  },
     
     "Sprinklers": { "AllowValues": "true, false", "Default": false,
-    "Name": "{{i18n: Sprinklers.name}}", "Description": "{{i18n: Sprinklers.desc}}"  },
+    "Name": "{{i18n:config.Sprinklers.name}}", "Description": "{{i18n:config.Sprinklers.desc}}"  },
     
     "AddMoss": { "AllowValues": "true, false", "Default": false,
-    "Name": "{{i18n: AddMoss.name}}", "Description": "{{i18n: AddMoss.desc}}"  },
+    "Name": "{{i18n:config.AddMoss.name}}", "Description": "{{i18n:config.AddMoss.desc}}"  },
     
     "Fences": { "AllowValues": "true, false", "Default": false,
-    "Name": "{{i18n: Fences.name}}", "Description": "{{i18n: Fences.desc}}"  },
+    "Name": "{{i18n:config.Fences.name}}", "Description": "{{i18n:config.Fences.desc}}"  },
     
     "Rings": { "AllowValues": "true, false",  "Default": false,
-    "Name": "{{i18n: Rings.name}}", "Description": "{{i18n: Rings.desc}}"  },
+    "Name": "{{i18n:config.Rings.name}}", "Description": "{{i18n:config.Rings.desc}}"  },
     
     "Baits": { "AllowValues": "true, false", "Default": false,
-    "Name": "{{i18n: Baits.name}}", "Description": "{{i18n: Baits.desc}}"  },
+    "Name": "{{i18n:config.Baits.name}}", "Description": "{{i18n:config.Baits.desc}}"  },
     
     "FishHooks": { "AllowValues": "true, false", "Default": false,
-    "Name": "{{i18n: FishHooks.name}}", "Description": "{{i18n: FishHooks.desc}}"  },
+    "Name": "{{i18n:config.FishHooks.name}}", "Description": "{{i18n:config.FishHooks.desc}}"  },
     
     "Lighting": { "AllowValues": "true, false", "Default": false,
-    "Name": "{{i18n: Lighting.name}}", "Description": "{{i18n: Lighting.desc}}"  },
+    "Name": "{{i18n:config.Lighting.name}}", "Description": "{{i18n:config.Lighting.desc}}"  },
     
     "Flooring": { "AllowValues": "true, false", "Default": false,
-    "Name": "{{i18n: Flooring.name}}", "Description": "{{i18n: Flooring.desc}}"  },
+    "Name": "{{i18n:config.Flooring.name}}", "Description": "{{i18n:config.Flooring.desc}}"  },
     
     "Totems": { "AllowValues": "true, false", "Default": false,
-    "Name": "{{i18n: Totems.name}}", "Description": "{{i18n: Totems.desc}}"  },   
+    "Name": "{{i18n:config.Totems.name}}", "Description": "{{i18n:config.Totems.desc}}"  },   
     
     "Bombs": { "AllowValues": "true, false", "Default": false,
-    "Name": "{{i18n: Bombs.name}}", "Description": "{{i18n: Bombs.desc}}"  },  
+    "Name": "{{i18n:config.Bombs.name}}", "Description": "{{i18n:config.Bombs.desc}}"  },  
     
     "Signs": { "AllowValues": "true, false", "Default": false,
-    "Name": "{{i18n: Signs.name}}", "Description": "{{i18n: Signs.desc}}"  }
+    "Name": "{{i18n:config.Signs.name}}", "Description": "{{i18n:config.Signs.desc}}"  }
      },
 
   //Modificações padrão sem condição no GMCM    
