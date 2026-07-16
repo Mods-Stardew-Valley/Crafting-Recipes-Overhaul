@@ -250,19 +250,18 @@
       }
     },
 
-    //Continuar daqui 
     {
       "When": { "Totems": true },
       "Action": "EditData",
       "Target": "Data/CraftingRecipes",
       "Entries": {
-        "Warp Totem: Farm": "709 1 770 1 771 2/Field/688/false/Foraging 8/",
-        "Warp Totem: Mountains": "709 1 330 1 390 5/Field/689/false/Foraging 7/",
-        "Warp Totem: Beach": "709 1 393 1 771 2/Field/690/false/Foraging 6/",
-        "Warp Totem: Desert": "709 1 88 1 386 1/Field/261/false/null/",
-        "Warp Totem: Island": "709 1 852 1 829 1/Field/886/false/null/",
-        "Rain Totem": "709 1 330 1 Moss 1/Field/681/false/Foraging 9/",
-        "Treasure Totem": "709 1 MysticSyrup 1 Moss 1/Field/TreasureTotem/false/null/"
+        "Warp Totem: Farm": "709 1 770 1 771 2/Field/688/false/Foraging 8/", //Receita alterada 
+        "Warp Totem: Mountains": "709 1 330 1 390 5/Field/689/false/Foraging 7/", //Receita alterada
+        "Warp Totem: Beach": "709 1 393 1 771 2/Field/690/false/Foraging 6/",  //Custo reduzido
+        "Warp Totem: Desert": "709 1 88 1 386 1/Field/261/false/null/", //Custo reduzido
+        "Warp Totem: Island": "709 1 852 1 829 1/Field/886/false/null/", //Custo reduzido
+        "Rain Totem": "709 1 330 1 Moss 1/Field/681/false/Foraging 9/", //Receita alterada
+        "Treasure Totem": "709 1 MysticSyrup 1 Moss 1/Field/TreasureTotem/false/null/" //Custo reduzido
         }
     },
 
@@ -271,9 +270,9 @@
       "Action": "EditData",
       "Target": "Data/CraftingRecipes",
       "Entries": {
-        "Cherry Bomb": "378 1 382 1/Field/286/false/Mining 1/",
-        "Bomb": "380 1 382 1/Field/287/false/Mining 6/",
-        "Mega Bomb": "384 1 768 1 769 1/Field/288/false/Mining 8/"
+        "Cherry Bomb": "378 1 382 1/Field/286 10/false/Mining 1/", //Custo reduzido e quantidade produzida aumentada
+        "Bomb": "380 1 382 1/Field/287 5/false/Mining 6/", //Custo reduzido e quantidade produzida aumentada
+        "Mega Bomb": "384 1 768 1 769 1/Field/288 2/false/Mining 8/" //Custo reduzido e quantidade produzida aumentada
       }
     },
 
@@ -284,22 +283,12 @@
       "Action": "EditData",
       "Target": "Data/CraftingRecipes",
       "Entries": {
-        "Wood Sign": "388 25/Home/37/true/default/",
-        "Stone Sign": "390 25/Home/38/true/default/",
-        "Dark Sign": "767 5 881 5/Home/39/true/f Krobus 3/",
-        "Text Sign": "388 25/Home/TextSign/true/default/"
+        "Wood Sign": "388 5/Home/37/true/default/", //Custo reduzido
+        "Stone Sign": "390 5/Home/38/true/default/", //Custo reduzido
+        "Dark Sign": "767 1 881 1/Home/39/true/f Krobus 3/", //Custo reduzido
+        "Text Sign": "388 5 382 1/Home/TextSign/true/default/" //Custo reduzido e receita alterada
       }
     }
-
-
-
-
-
-
-
-
-
-
 
   ]
 }
