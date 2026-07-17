@@ -1,42 +1,42 @@
 //French Translation
 //fr.json
 {
-    "Chests.name": "Coffres",
-    "Chests.description": "Réduit considérablement la quantité de matériaux nécessaire pour fabriquer l'un ou l'autre des coffres.",
+    "config.Chests.name": "Coffres",
+    "config.Chests.description": "Réduit considérablement la quantité de matériaux nécessaire pour fabriquer l'un ou l'autre des coffres.",
 
-    "AltFertilizers.name": "Engrais Alternatifs",
-    "AltFertilizers.description": "Ajoute des recettes alternatives d'engrais utilisant d'autres matériaux, ainsi que différents niveaux pour les débloquer.",
+    "config.AltFertilizers.name": "Engrais Alternatifs",
+    "config.AltFertilizers.description": "Ajoute des recettes alternatives d'engrais utilisant d'autres matériaux, ainsi que différents niveaux pour les débloquer.",
 
-    "Sprinklers.name": "Arroseurs",
-    "Sprinklers.description": "Réduit le coût de fabrication des arroseurs et abaisse les niveaux requis pour débloquer les recettes.",
+    "config.Sprinklers.name": "Arroseurs",
+    "config.Sprinklers.description": "Réduit le coût de fabrication des arroseurs et abaisse les niveaux requis pour débloquer les recettes.",
 
-    "AddMoss.name": "Ajouter de la Mousse",
-    "AddMoss.description": "Ajoute une recette permettant de produire de la mousse au niveau 3 de Cueillette.",
+    "config.AddMoss.name": "Ajouter de la Mousse",
+    "config.AddMoss.description": "Ajoute une recette permettant de produire de la mousse au niveau 3 de Cueillette.",
 
-    "Fences.name": "Clôtures",
-    "Fences.description": "Augmente le nombre de clôtures fabriquées avec la même quantité de matériaux.",
+    "config.Fences.name": "Clôtures",
+    "config.Fences.description": "Augmente le nombre de clôtures fabriquées avec la même quantité de matériaux.",
 
-    "Rings.name": "Anneaux",
-    "Rings.description": "Réduit le coût de fabrication des anneaux.",
+    "config.Rings.name": "Anneaux",
+    "config.Rings.description": "Réduit le coût de fabrication des anneaux.",
 
-    "Baits.name": "Appâts",
-    "Baits.description": "Augmente la quantité d'appâts fabriqués avec les mêmes matériaux.",
+    "config.Baits.name": "Appâts",
+    "config.Baits.description": "Augmente la quantité d'appâts fabriqués avec les mêmes matériaux.",
 
-    "FishHooks.name": "Hameçons",
-    "FishHooks.description": "Réduit les coûts de fabrication de ces objets.",
+    "config.FishHooks.name": "Hameçons",
+    "config.FishHooks.description": "Réduit les coûts de fabrication de ces objets.",
 
-    "Lighting.name": "Éclairage",
-    "Lighting.description": "Réduit la quantité d'ingrédients utilisée et adapte d'autres recettes afin de les rendre plus simples et plus classiques.",
+    "config.Lighting.name": "Éclairage",
+    "config.Lighting.description": "Réduit la quantité d'ingrédients utilisée et adapte d'autres recettes afin de les rendre plus simples et plus classiques.",
 
-    "Flooring.name": "Revêtements de Sol",
-    "Flooring.description": "Augmente la quantité fabriquée avec les mêmes ressources.",
+    "config.Flooring.name": "Revêtements de Sol",
+    "config.Flooring.description": "Augmente la quantité fabriquée avec les mêmes ressources.",
 
-    "Totems.name": "Totems",
-    "Totems.description": "Réduit les coûts de fabrication et remplace certains matériaux afin de faciliter la fabrication des totems.",
+    "config.Totems.name": "Totems",
+    "config.Totems.description": "Réduit les coûts de fabrication et remplace certains matériaux afin de faciliter la fabrication des totems.",
 
-    "Bombs.name": "Bombes",
-    "Bombs.description": "Réduit les coûts et augmente la quantité produite.",
+    "config.Bombs.name": "Bombes",
+    "config.Bombs.description": "Réduit les coûts et augmente la quantité produite.",
 
-    "Signs.name": "Panneaux",
-    "Signs.description": "Réduit la quantité de matériaux nécessaire pour fabriquer un panneau."
+    "config.Signs.name": "Panneaux",
+    "config.Signs.description": "Réduit la quantité de matériaux nécessaire pour fabriquer un panneau."
 }

@@ -1,42 +1,42 @@
 //Czech Translation
 //cs.json
 {
-    "Chests.name": "Truhly",
-    "Chests.description": "Výrazně snižuje množství materiálů potřebných k výrobě obou typů truhel.",
+    "config.Chests.name": "Truhly",
+    "config.Chests.description": "Výrazně snižuje množství materiálů potřebných k výrobě obou typů truhel.",
 
-    "AltFertilizers.name": "Alternativní Hnojiva",
-    "AltFertilizers.description": "Přidává alternativní recepty na hnojiva s použitím jiných materiálů a odlišnými úrovněmi odemčení.",
+    "config.AltFertilizers.name": "Alternativní Hnojiva",
+    "config.AltFertilizers.description": "Přidává alternativní recepty na hnojiva s použitím jiných materiálů a odlišnými úrovněmi odemčení.",
 
-    "Sprinklers.name": "Zavlažovače",
-    "Sprinklers.description": "Snižuje výrobní náklady zavlažovačů a snižuje požadovanou úroveň pro odemčení receptů.",
+    "config.Sprinklers.name": "Zavlažovače",
+    "config.Sprinklers.description": "Snižuje výrobní náklady zavlažovačů a snižuje požadovanou úroveň pro odemčení receptů.",
 
-    "AddMoss.name": "Přidat Mech",
-    "AddMoss.description": "Přidává recept na výrobu mechu na 3. úrovni Sběratelství.",
+    "config.AddMoss.name": "Přidat Mech",
+    "config.AddMoss.description": "Přidává recept na výrobu mechu na 3. úrovni Sběratelství.",
 
-    "Fences.name": "Ploty",
-    "Fences.description": "Zvyšuje počet plotů vyrobených ze stejného množství materiálů.",
+    "config.Fences.name": "Ploty",
+    "config.Fences.description": "Zvyšuje počet plotů vyrobených ze stejného množství materiálů.",
 
-    "Rings.name": "Prsteny",
-    "Rings.description": "Snižuje výrobní náklady prstenů.",
+    "config.Rings.name": "Prsteny",
+    "config.Rings.description": "Snižuje výrobní náklady prstenů.",
 
-    "Baits.name": "Návnady",
-    "Baits.description": "Zvyšuje množství návnad vyrobených ze stejných materiálů.",
+    "config.Baits.name": "Návnady",
+    "config.Baits.description": "Zvyšuje množství návnad vyrobených ze stejných materiálů.",
 
-    "FishHooks.name": "Rybářské Háčky",
-    "FishHooks.description": "Snižuje výrobní náklady těchto předmětů.",
+    "config.FishHooks.name": "Rybářské Háčky",
+    "config.FishHooks.description": "Snižuje výrobní náklady těchto předmětů.",
 
-    "Lighting.name": "Osvětlení",
-    "Lighting.description": "Snižuje množství použitých surovin a upravuje další recepty tak, aby byly jednodušší a běžnější.",
+    "config.Lighting.name": "Osvětlení",
+    "config.Lighting.description": "Snižuje množství použitých surovin a upravuje další recepty tak, aby byly jednodušší a běžnější.",
 
-    "Flooring.name": "Podlahy",
-    "Flooring.description": "Zvyšuje množství vyrobené ze stejných surovin.",
+    "config.Flooring.name": "Podlahy",
+    "config.Flooring.description": "Zvyšuje množství vyrobené ze stejných surovin.",
 
-    "Totems.name": "Totemy",
-    "Totems.description": "Snižuje výrobní náklady a nahrazuje některé materiály, aby byla výroba totemů jednodušší.",
+    "config.Totems.name": "Totemy",
+    "config.Totems.description": "Snižuje výrobní náklady a nahrazuje některé materiály, aby byla výroba totemů jednodušší.",
 
-    "Bombs.name": "Bomby",
-    "Bombs.description": "Snižuje náklady a zvyšuje vyrobené množství.",
+    "config.Bombs.name": "Bomby",
+    "config.Bombs.description": "Snižuje náklady a zvyšuje vyrobené množství.",
 
-    "Signs.name": "Cedule",
-    "Signs.description": "Snižuje množství materiálů potřebných k výrobě jedné cedule."
+    "config.Signs.name": "Cedule",
+    "config.Signs.description": "Snižuje množství materiálů potřebných k výrobě jedné cedule."
 }

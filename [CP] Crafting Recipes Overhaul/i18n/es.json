@@ -1,42 +1,42 @@
 //Spanish Translation
 //es.json
 {
-    "Chests.name": "Cofres",
-    "Chests.description": "Reduce significativamente la cantidad de materiales necesaria para fabricar cualquiera de los cofres.",
+    "config.Chests.name": "Cofres",
+    "config.Chests.description": "Reduce significativamente la cantidad de materiales necesaria para fabricar cualquiera de los cofres.",
 
-    "AltFertilizers.name": "Fertilizantes Alternativos",
-    "AltFertilizers.description": "Añade recetas alternativas para fertilizantes utilizando otros materiales y diferentes niveles para desbloquearlas.",
+    "config.AltFertilizers.name": "Fertilizantes Alternativos",
+    "config.AltFertilizers.description": "Añade recetas alternativas para fertilizantes utilizando otros materiales y diferentes niveles para desbloquearlas.",
 
-    "Sprinklers.name": "Aspersores",
-    "Sprinklers.description": "Reduce el coste de fabricación de los aspersores y disminuye los niveles necesarios para desbloquear las recetas.",
+    "config.Sprinklers.name": "Aspersores",
+    "config.Sprinklers.description": "Reduce el coste de fabricación de los aspersores y disminuye los niveles necesarios para desbloquear las recetas.",
 
-    "AddMoss.name": "Añadir Musgo",
-    "AddMoss.description": "Añade una receta para producir musgo en el nivel 3 de Recolección.",
+    "config.AddMoss.name": "Añadir Musgo",
+    "config.AddMoss.description": "Añade una receta para producir musgo en el nivel 3 de Recolección.",
 
-    "Fences.name": "Vallas",
-    "Fences.description": "Aumenta la cantidad de vallas producidas con la misma cantidad de materiales.",
+    "config.Fences.name": "Vallas",
+    "config.Fences.description": "Aumenta la cantidad de vallas producidas con la misma cantidad de materiales.",
 
-    "Rings.name": "Anillos",
-    "Rings.description": "Reduce el coste de fabricación de los anillos.",
+    "config.Rings.name": "Anillos",
+    "config.Rings.description": "Reduce el coste de fabricación de los anillos.",
 
-    "Baits.name": "Cebos",
-    "Baits.description": "Aumenta la cantidad de cebo producida con los mismos materiales.",
+    "config.Baits.name": "Cebos",
+    "config.Baits.description": "Aumenta la cantidad de cebo producida con los mismos materiales.",
 
-    "FishHooks.name": "Anzuelos",
-    "FishHooks.description": "Reduce los costes de fabricación de los objetos.",
+    "config.FishHooks.name": "Anzuelos",
+    "config.FishHooks.description": "Reduce los costes de fabricación de los objetos.",
 
-    "Lighting.name": "Iluminación",
-    "Lighting.description": "Reduce la cantidad de ingredientes utilizados y adapta otras recetas para hacerlas más sencillas y convencionales.",
+    "config.Lighting.name": "Iluminación",
+    "config.Lighting.description": "Reduce la cantidad de ingredientes utilizados y adapta otras recetas para hacerlas más sencillas y convencionales.",
 
-    "Flooring.name": "Suelos",
-    "Flooring.description": "Aumenta la cantidad producida con los mismos recursos.",
+    "config.Flooring.name": "Suelos",
+    "config.Flooring.description": "Aumenta la cantidad producida con los mismos recursos.",
 
-    "Totems.name": "Tótems",
-    "Totems.description": "Reduce los costes de fabricación y sustituye algunos materiales para facilitar la producción de los tótems.",
+    "config.Totems.name": "Tótems",
+    "config.Totems.description": "Reduce los costes de fabricación y sustituye algunos materiales para facilitar la producción de los tótems.",
 
-    "Bombs.name": "Bombas",
-    "Bombs.description": "Reduce los costes y aumenta la cantidad producida.",
+    "config.Bombs.name": "Bombas",
+    "config.Bombs.description": "Reduce los costes y aumenta la cantidad producida.",
 
-    "Signs.name": "Señales",
-    "Signs.description": "Reduce la cantidad de materiales necesaria para fabricar una señal."
+    "config.Signs.name": "Señales",
+    "config.Signs.description": "Reduce la cantidad de materiales necesaria para fabricar una señal."
 }

@@ -1,42 +1,42 @@
 //English Translation
 //default.json
 {
-    "Chests.name": "Chests",
-    "Chests.description": "Significantly reduces the amount of material needed to produce either chest.",
+    "config.Chests.name": "Chests",
+    "config.Chests.description": "Significantly reduces the amount of material needed to produce either chest.",
 
-    "AltFertilizers.name": "Alternative Fertilizers",
-    "AltFertilizers.description": "Adds alternative recipes for fertilizers using other materials, and different levels for unlocking them.",
+    "config.AltFertilizers.name": "Alternative Fertilizers",
+    "config.AltFertilizers.description": "Adds alternative recipes for fertilizers using other materials, and different levels for unlocking them.",
 
-    "Sprinklers.name": "Sprinklers",
-    "Sprinklers.description": "Reduces the production cost of sprinklers and lowers the thresholds for unlocking the recipe.",
+    "config.Sprinklers.name": "Sprinklers",
+    "config.Sprinklers.description": "Reduces the production cost of sprinklers and lowers the thresholds for unlocking the recipe.",
 
-    "AddMoss.name": "Add Moss",
-    "AddMoss.description": "Adds a recipe for moss production at foraging level 3.",
+    "config.AddMoss.name": "Add Moss",
+    "config.AddMoss.description": "Adds a recipe for moss production at foraging level 3.",
 
-    "Fences.name": "Fences",
-    "Fences.description": "Increases the number of fences produced with the same amount of material.",
+    "config.Fences.name": "Fences",
+    "config.Fences.description": "Increases the number of fences produced with the same amount of material.",
 
-    "Rings.name": "Rings",
-    "Rings.description": "Reduces the production cost for the rings.",
+    "config.Rings.name": "Rings",
+    "config.Rings.description": "Reduces the production cost for the rings.",
     
-    "Baits.name": "Baits",
-    "Baits.description": "Increases the quantity of bait produced with the same materials.",
+    "config.Baits.name": "Baits",
+    "config.Baits.description": "Increases the quantity of bait produced with the same materials.",
 
-    "FishHooks.name": "Fishhooks",
-    "FishHooks.description": "Reduces the production costs of the items.",
+    "config.FishHooks.name": "Fishhooks",
+    "config.FishHooks.description": "Reduces the production costs of the items.",
 
-    "Lighting.name": "Lighting",
-    "Lighting.description": "Reduces the amount of ingredients used and adapts other recipes to make them easier and more conventional.",
+    "config.Lighting.name": "Lighting",
+    "config.Lighting.description": "Reduces the amount of ingredients used and adapts other recipes to make them easier and more conventional.",
 
-    "Flooring.name": "Flooring",
-    "Flooring.description": "Increases the quantity created with the same resources.",
+    "config.Flooring.name": "Flooring",
+    "config.Flooring.description": "Increases the quantity created with the same resources.",
 
-    "Totems.name": "Totems",
-    "Totems.description": "Reduces production costs and substitutes some materials to make the production of the Totems easier.",
+    "config.Totems.name": "Totems",
+    "config.Totems.description": "Reduces production costs and substitutes some materials to make the production of the Totems easier.",
 
-    "Bombs.name": "Bombs",
-    "Bombs.description": "Reduced costs and increased production.",
+    "config.Bombs.name": "Bombs",
+    "config.Bombs.description": "Reduced costs and increased production.",
 
-    "Signs.name": "Signs",
-    "Signs.description": "Reduces the amount of material needed to produce one sign."
+    "config.Signs.name": "Signs",
+    "config.Signs.description": "Reduces the amount of material needed to produce one sign."
 }
