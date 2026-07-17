@@ -125,7 +125,7 @@
       "Action": "EditData",
       "Target": "Data/CraftingRecipes",
       "Entries": {
-        "Moss": "771 3 92 2 330 1/Field/Moss/true/Foraging 3/"
+        "Moss": "771 3 92 2 330 1/Field/Moss/false/Foraging 3/"
       }
     },
 

@@ -1,7 +1,7 @@
 {
    "Name": "Crafting Recipes Overhaul",
    "Author": "LoganDoidao",
-   "Version": "3.0.0",
+   "Version": "3.0.1",
    "MinimumApiVersion": "4.1.0", 
    "Description": "Craft some of the vanila recipes with fewer resources or greater outputs.",
    "UniqueID": "LoganDoidao.CraftingRecipesOverhaul",
