@@ -1,42 +1,42 @@
 //Portuguese Translation
 //pt.json
 {
-    "Chests.name": "Baús",
-    "Chests.description": "Reduz significativamente a quantidade de materiais necessária para fabricar qualquer um dos baús.",
+    "config.Chests.name": "Baús",
+    "config.Chests.description": "Reduz significativamente a quantidade de materiais necessária para fabricar qualquer um dos baús.",
 
-    "AltFertilizers.name": "Fertilizantes Alternativos",
-    "AltFertilizers.description": "Adiciona receitas alternativas para fertilizantes utilizando outros materiais e diferentes níveis para as desbloquear.",
+    "config.AltFertilizers.name": "Fertilizantes Alternativos",
+    "config.AltFertilizers.description": "Adiciona receitas alternativas para fertilizantes utilizando outros materiais e diferentes níveis para as desbloquear.",
 
-    "Sprinklers.name": "Aspersores",
-    "Sprinklers.description": "Reduz o custo de fabrico dos aspersores e diminui os níveis necessários para desbloquear as receitas.",
+    "config.Sprinklers.name": "Aspersores",
+    "config.Sprinklers.description": "Reduz o custo de fabrico dos aspersores e diminui os níveis necessários para desbloquear as receitas.",
 
-    "AddMoss.name": "Adicionar Musgo",
-    "AddMoss.description": "Adiciona uma receita para produzir musgo no nível 3 de Recolha.",
+    "config.AddMoss.name": "Adicionar Musgo",
+    "config.AddMoss.description": "Adiciona uma receita para produzir musgo no nível 3 de Recolha.",
 
-    "Fences.name": "Cercas",
-    "Fences.description": "Aumenta a quantidade de cercas produzidas com a mesma quantidade de materiais.",
+    "config.Fences.name": "Cercas",
+    "config.Fences.description": "Aumenta a quantidade de cercas produzidas com a mesma quantidade de materiais.",
 
-    "Rings.name": "Anéis",
-    "Rings.description": "Reduz o custo de fabrico dos anéis.",
+    "config.Rings.name": "Anéis",
+    "config.Rings.description": "Reduz o custo de fabrico dos anéis.",
 
-    "Baits.name": "Iscos",
-    "Baits.description": "Aumenta a quantidade de isco produzida com os mesmos materiais.",
+    "config.Baits.name": "Iscos",
+    "config.Baits.description": "Aumenta a quantidade de isco produzida com os mesmos materiais.",
 
-    "FishHooks.name": "Anzóis",
-    "FishHooks.description": "Reduz os custos de fabrico dos itens.",
+    "config.FishHooks.name": "Anzóis",
+    "config.FishHooks.description": "Reduz os custos de fabrico dos itens.",
 
-    "Lighting.name": "Iluminação",
-    "Lighting.description": "Reduz a quantidade de ingredientes utilizada e adapta outras receitas para as tornar mais simples e convencionais.",
+    "config.Lighting.name": "Iluminação",
+    "config.Lighting.description": "Reduz a quantidade de ingredientes utilizada e adapta outras receitas para as tornar mais simples e convencionais.",
 
-    "Flooring.name": "Pavimentos",
-    "Flooring.description": "Aumenta a quantidade produzida com os mesmos recursos.",
+    "config.Flooring.name": "Pavimentos",
+    "config.Flooring.description": "Aumenta a quantidade produzida com os mesmos recursos.",
 
-    "Totems.name": "Totens",
-    "Totems.description": "Reduz os custos de fabrico e substitui alguns materiais para facilitar a produção dos Totens.",
+    "config.Totems.name": "Totens",
+    "config.Totems.description": "Reduz os custos de fabrico e substitui alguns materiais para facilitar a produção dos Totens.",
 
-    "Bombs.name": "Bombas",
-    "Bombs.description": "Reduz os custos e aumenta a quantidade produzida.",
+    "config.Bombs.name": "Bombas",
+    "config.Bombs.description": "Reduz os custos e aumenta a quantidade produzida.",
 
-    "Signs.name": "Placas",
-    "Signs.description": "Reduz a quantidade de materiais necessária para fabricar uma placa."
+    "config.Signs.name": "Placas",
+    "config.Signs.description": "Reduz a quantidade de materiais necessária para fabricar uma placa."
 }

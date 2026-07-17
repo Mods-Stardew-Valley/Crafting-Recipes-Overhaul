@@ -1,42 +1,42 @@
 //Turkish Translation
 //tr.json
 {
-    "Chests.name": "Sandıklar",
-    "Chests.description": "Her iki sandık türünü üretmek için gereken malzeme miktarını önemli ölçüde azaltır.",
+    "config.Chests.name": "Sandıklar",
+    "config.Chests.description": "Her iki sandık türünü üretmek için gereken malzeme miktarını önemli ölçüde azaltır.",
 
-    "AltFertilizers.name": "Alternatif Gübreler",
-    "AltFertilizers.description": "Farklı malzemeler kullanan alternatif gübre tarifleri ve bunlar için farklı açılma seviyeleri ekler.",
+    "config.AltFertilizers.name": "Alternatif Gübreler",
+    "config.AltFertilizers.description": "Farklı malzemeler kullanan alternatif gübre tarifleri ve bunlar için farklı açılma seviyeleri ekler.",
 
-    "Sprinklers.name": "Fıskiyeler",
-    "Sprinklers.description": "Fıskiyelerin üretim maliyetini düşürür ve tariflerin açılma seviyelerini azaltır.",
+    "config.Sprinklers.name": "Fıskiyeler",
+    "config.Sprinklers.description": "Fıskiyelerin üretim maliyetini düşürür ve tariflerin açılma seviyelerini azaltır.",
 
-    "AddMoss.name": "Yosun Ekle",
-    "AddMoss.description": "Toplayıcılık seviyesi 3'te yosun üretimi için bir tarif ekler.",
+    "config.AddMoss.name": "Yosun Ekle",
+    "config.AddMoss.description": "Toplayıcılık seviyesi 3'te yosun üretimi için bir tarif ekler.",
 
-    "Fences.name": "Çitler",
-    "Fences.description": "Aynı miktarda malzemeyle üretilen çit sayısını artırır.",
+    "config.Fences.name": "Çitler",
+    "config.Fences.description": "Aynı miktarda malzemeyle üretilen çit sayısını artırır.",
 
-    "Rings.name": "Yüzükler",
-    "Rings.description": "Yüzüklerin üretim maliyetini azaltır.",
+    "config.Rings.name": "Yüzükler",
+    "config.Rings.description": "Yüzüklerin üretim maliyetini azaltır.",
 
-    "Baits.name": "Yemler",
-    "Baits.description": "Aynı malzemelerle üretilen yem miktarını artırır.",
+    "config.Baits.name": "Yemler",
+    "config.Baits.description": "Aynı malzemelerle üretilen yem miktarını artırır.",
 
-    "FishHooks.name": "Olta Kancaları",
-    "FishHooks.description": "Bu eşyaların üretim maliyetlerini azaltır.",
+    "config.FishHooks.name": "Olta Kancaları",
+    "config.FishHooks.description": "Bu eşyaların üretim maliyetlerini azaltır.",
 
-    "Lighting.name": "Aydınlatma",
-    "Lighting.description": "Kullanılan malzeme miktarını azaltır ve diğer tarifleri daha kolay ve daha geleneksel hâle getirir.",
+    "config.Lighting.name": "Aydınlatma",
+    "config.Lighting.description": "Kullanılan malzeme miktarını azaltır ve diğer tarifleri daha kolay ve daha geleneksel hâle getirir.",
 
-    "Flooring.name": "Zemin Kaplamaları",
-    "Flooring.description": "Aynı kaynaklarla üretilen miktarı artırır.",
+    "config.Flooring.name": "Zemin Kaplamaları",
+    "config.Flooring.description": "Aynı kaynaklarla üretilen miktarı artırır.",
 
-    "Totems.name": "Totemler",
-    "Totems.description": "Üretim maliyetlerini düşürür ve bazı malzemeleri değiştirerek totemlerin üretimini kolaylaştırır.",
+    "config.Totems.name": "Totemler",
+    "config.Totems.description": "Üretim maliyetlerini düşürür ve bazı malzemeleri değiştirerek totemlerin üretimini kolaylaştırır.",
 
-    "Bombs.name": "Bombalar",
-    "Bombs.description": "Maliyetleri azaltır ve üretilen miktarı artırır.",
+    "config.Bombs.name": "Bombalar",
+    "config.Bombs.description": "Maliyetleri azaltır ve üretilen miktarı artırır.",
 
-    "Signs.name": "Tabelalar",
-    "Signs.description": "Bir tabela üretmek için gereken malzeme miktarını azaltır."
+    "config.Signs.name": "Tabelalar",
+    "config.Signs.description": "Bir tabela üretmek için gereken malzeme miktarını azaltır."
 }

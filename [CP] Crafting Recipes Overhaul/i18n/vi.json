@@ -1,42 +1,42 @@
 //Vietnamese Translation
 //vi.json
 {
-    "Chests.name": "Rương",
-    "Chests.description": "Giảm đáng kể lượng nguyên liệu cần thiết để chế tạo cả hai loại rương.",
+    "config.Chests.name": "Rương",
+    "config.Chests.description": "Giảm đáng kể lượng nguyên liệu cần thiết để chế tạo cả hai loại rương.",
 
-    "AltFertilizers.name": "Phân Bón Thay Thế",
-    "AltFertilizers.description": "Thêm các công thức phân bón thay thế sử dụng nguyên liệu khác và thay đổi cấp độ mở khóa.",
+    "config.AltFertilizers.name": "Phân Bón Thay Thế",
+    "config.AltFertilizers.description": "Thêm các công thức phân bón thay thế sử dụng nguyên liệu khác và thay đổi cấp độ mở khóa.",
 
-    "Sprinklers.name": "Vòi Phun Nước",
-    "Sprinklers.description": "Giảm chi phí chế tạo vòi phun nước và hạ thấp cấp độ cần thiết để mở khóa công thức.",
+    "config.Sprinklers.name": "Vòi Phun Nước",
+    "config.Sprinklers.description": "Giảm chi phí chế tạo vòi phun nước và hạ thấp cấp độ cần thiết để mở khóa công thức.",
 
-    "AddMoss.name": "Thêm Rêu",
-    "AddMoss.description": "Thêm công thức chế tạo rêu ở cấp 3 Kỹ năng Hái Lượm.",
+    "config.AddMoss.name": "Thêm Rêu",
+    "config.AddMoss.description": "Thêm công thức chế tạo rêu ở cấp 3 Kỹ năng Hái Lượm.",
 
-    "Fences.name": "Hàng Rào",
-    "Fences.description": "Tăng số lượng hàng rào được chế tạo với cùng một lượng nguyên liệu.",
+    "config.Fences.name": "Hàng Rào",
+    "config.Fences.description": "Tăng số lượng hàng rào được chế tạo với cùng một lượng nguyên liệu.",
 
-    "Rings.name": "Nhẫn",
-    "Rings.description": "Giảm chi phí chế tạo nhẫn.",
+    "config.Rings.name": "Nhẫn",
+    "config.Rings.description": "Giảm chi phí chế tạo nhẫn.",
 
-    "Baits.name": "Mồi Câu",
-    "Baits.description": "Tăng số lượng mồi câu được chế tạo với cùng một lượng nguyên liệu.",
+    "config.Baits.name": "Mồi Câu",
+    "config.Baits.description": "Tăng số lượng mồi câu được chế tạo với cùng một lượng nguyên liệu.",
 
-    "FishHooks.name": "Lưỡi Câu",
-    "FishHooks.description": "Giảm chi phí chế tạo các vật phẩm này.",
+    "config.FishHooks.name": "Lưỡi Câu",
+    "config.FishHooks.description": "Giảm chi phí chế tạo các vật phẩm này.",
 
-    "Lighting.name": "Chiếu Sáng",
-    "Lighting.description": "Giảm lượng nguyên liệu sử dụng và điều chỉnh các công thức khác để chúng đơn giản và thông dụng hơn.",
+    "config.Lighting.name": "Chiếu Sáng",
+    "config.Lighting.description": "Giảm lượng nguyên liệu sử dụng và điều chỉnh các công thức khác để chúng đơn giản và thông dụng hơn.",
 
-    "Flooring.name": "Sàn Nhà",
-    "Flooring.description": "Tăng số lượng sàn được chế tạo với cùng một lượng tài nguyên.",
+    "config.Flooring.name": "Sàn Nhà",
+    "config.Flooring.description": "Tăng số lượng sàn được chế tạo với cùng một lượng tài nguyên.",
 
-    "Totems.name": "Vật Tổ",
-    "Totems.description": "Giảm chi phí chế tạo và thay thế một số nguyên liệu để việc chế tạo vật tổ trở nên dễ dàng hơn.",
+    "config.Totems.name": "Vật Tổ",
+    "config.Totems.description": "Giảm chi phí chế tạo và thay thế một số nguyên liệu để việc chế tạo vật tổ trở nên dễ dàng hơn.",
 
-    "Bombs.name": "Bom",
-    "Bombs.description": "Giảm chi phí và tăng số lượng chế tạo.",
+    "config.Bombs.name": "Bom",
+    "config.Bombs.description": "Giảm chi phí và tăng số lượng chế tạo.",
 
-    "Signs.name": "Biển Báo",
-    "Signs.description": "Giảm lượng nguyên liệu cần thiết để chế tạo một biển báo."
+    "config.Signs.name": "Biển Báo",
+    "config.Signs.description": "Giảm lượng nguyên liệu cần thiết để chế tạo một biển báo."
 }

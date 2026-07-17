@@ -1,42 +1,42 @@
 //Thai Translation
 //th.json
 {
-    "Chests.name": "หีบ",
-    "Chests.description": "ลดจำนวนวัสดุที่ใช้ในการสร้างหีบทั้งสองประเภทลงอย่างมาก",
+    "config.Chests.name": "หีบ",
+    "config.Chests.description": "ลดจำนวนวัสดุที่ใช้ในการสร้างหีบทั้งสองประเภทลงอย่างมาก",
 
-    "AltFertilizers.name": "ปุ๋ยทางเลือก",
-    "AltFertilizers.description": "เพิ่มสูตรปุ๋ยทางเลือกที่ใช้วัสดุชนิดอื่น พร้อมปรับระดับที่ใช้ในการปลดล็อกสูตร",
+    "config.AltFertilizers.name": "ปุ๋ยทางเลือก",
+    "config.AltFertilizers.description": "เพิ่มสูตรปุ๋ยทางเลือกที่ใช้วัสดุชนิดอื่น พร้อมปรับระดับที่ใช้ในการปลดล็อกสูตร",
 
-    "Sprinklers.name": "สปริงเกลอร์",
-    "Sprinklers.description": "ลดต้นทุนการสร้างสปริงเกลอร์และลดระดับที่ต้องใช้ในการปลดล็อกสูตร",
+    "config.Sprinklers.name": "สปริงเกลอร์",
+    "config.Sprinklers.description": "ลดต้นทุนการสร้างสปริงเกลอร์และลดระดับที่ต้องใช้ในการปลดล็อกสูตร",
 
-    "AddMoss.name": "เพิ่มมอส",
-    "AddMoss.description": "เพิ่มสูตรสำหรับผลิตมอสที่ระดับการหาอาหารเลเวล 3",
+    "config.AddMoss.name": "เพิ่มมอส",
+    "config.AddMoss.description": "เพิ่มสูตรสำหรับผลิตมอสที่ระดับการหาอาหารเลเวล 3",
 
-    "Fences.name": "รั้ว",
-    "Fences.description": "เพิ่มจำนวนรั้วที่ผลิตได้จากวัสดุในปริมาณเท่าเดิม",
+    "config.Fences.name": "รั้ว",
+    "config.Fences.description": "เพิ่มจำนวนรั้วที่ผลิตได้จากวัสดุในปริมาณเท่าเดิม",
 
-    "Rings.name": "แหวน",
-    "Rings.description": "ลดต้นทุนการสร้างแหวน",
+    "config.Rings.name": "แหวน",
+    "config.Rings.description": "ลดต้นทุนการสร้างแหวน",
 
-    "Baits.name": "เหยื่อ",
-    "Baits.description": "เพิ่มจำนวนเหยื่อที่ผลิตได้จากวัสดุในปริมาณเท่าเดิม",
+    "config.Baits.name": "เหยื่อ",
+    "config.Baits.description": "เพิ่มจำนวนเหยื่อที่ผลิตได้จากวัสดุในปริมาณเท่าเดิม",
 
-    "FishHooks.name": "เบ็ดตกปลา",
-    "FishHooks.description": "ลดต้นทุนการสร้างไอเทมเหล่านี้",
+    "config.FishHooks.name": "เบ็ดตกปลา",
+    "config.FishHooks.description": "ลดต้นทุนการสร้างไอเทมเหล่านี้",
 
-    "Lighting.name": "แสงสว่าง",
-    "Lighting.description": "ลดจำนวนวัตถุดิบที่ใช้และปรับสูตรอื่น ๆ ให้สร้างได้ง่ายและเป็นมาตรฐานมากขึ้น",
+    "config.Lighting.name": "แสงสว่าง",
+    "config.Lighting.description": "ลดจำนวนวัตถุดิบที่ใช้และปรับสูตรอื่น ๆ ให้สร้างได้ง่ายและเป็นมาตรฐานมากขึ้น",
 
-    "Flooring.name": "พื้น",
-    "Flooring.description": "เพิ่มจำนวนพื้นที่ผลิตได้จากทรัพยากรในปริมาณเท่าเดิม",
+    "config.Flooring.name": "พื้น",
+    "config.Flooring.description": "เพิ่มจำนวนพื้นที่ผลิตได้จากทรัพยากรในปริมาณเท่าเดิม",
 
-    "Totems.name": "โทเท็ม",
-    "Totems.description": "ลดต้นทุนการสร้างและเปลี่ยนวัสดุบางส่วนเพื่อให้สร้างโทเท็มได้ง่ายขึ้น",
+    "config.Totems.name": "โทเท็ม",
+    "config.Totems.description": "ลดต้นทุนการสร้างและเปลี่ยนวัสดุบางส่วนเพื่อให้สร้างโทเท็มได้ง่ายขึ้น",
 
-    "Bombs.name": "ระเบิด",
-    "Bombs.description": "ลดต้นทุนและเพิ่มจำนวนที่ผลิตได้",
+    "config.Bombs.name": "ระเบิด",
+    "config.Bombs.description": "ลดต้นทุนและเพิ่มจำนวนที่ผลิตได้",
 
-    "Signs.name": "ป้าย",
-    "Signs.description": "ลดจำนวนวัสดุที่ใช้ในการสร้างป้ายหนึ่งอัน"
+    "config.Signs.name": "ป้าย",
+    "config.Signs.description": "ลดจำนวนวัสดุที่ใช้ในการสร้างป้ายหนึ่งอัน"
 }

@@ -1,42 +1,42 @@
 //Chinese (Simplified) Translation
 //zh.json
 {
-    "Chests.name": "箱子",
-    "Chests.description": "大幅减少制作任意一种箱子所需的材料。",
+    "config.Chests.name": "箱子",
+    "config.Chests.description": "大幅减少制作任意一种箱子所需的材料。",
 
-    "AltFertilizers.name": "替代肥料",
-    "AltFertilizers.description": "添加使用其他材料制作肥料的替代配方，并调整其解锁等级。",
+    "config.AltFertilizers.name": "替代肥料",
+    "config.AltFertilizers.description": "添加使用其他材料制作肥料的替代配方，并调整其解锁等级。",
 
-    "Sprinklers.name": "洒水器",
-    "Sprinklers.description": "降低洒水器的制作成本，并降低配方的解锁等级要求。",
+    "config.Sprinklers.name": "洒水器",
+    "config.Sprinklers.description": "降低洒水器的制作成本，并降低配方的解锁等级要求。",
 
-    "AddMoss.name": "添加苔藓",
-    "AddMoss.description": "在采集等级3时添加一个制作苔藓的配方。",
+    "config.AddMoss.name": "添加苔藓",
+    "config.AddMoss.description": "在采集等级3时添加一个制作苔藓的配方。",
 
-    "Fences.name": "栅栏",
-    "Fences.description": "使用相同数量的材料可制作更多栅栏。",
+    "config.Fences.name": "栅栏",
+    "config.Fences.description": "使用相同数量的材料可制作更多栅栏。",
 
-    "Rings.name": "戒指",
-    "Rings.description": "降低戒指的制作成本。",
+    "config.Rings.name": "戒指",
+    "config.Rings.description": "降低戒指的制作成本。",
 
-    "Baits.name": "鱼饵",
-    "Baits.description": "使用相同材料可制作更多鱼饵。",
+    "config.Baits.name": "鱼饵",
+    "config.Baits.description": "使用相同材料可制作更多鱼饵。",
 
-    "FishHooks.name": "鱼钩",
-    "FishHooks.description": "降低这些物品的制作成本。",
+    "config.FishHooks.name": "鱼钩",
+    "config.FishHooks.description": "降低这些物品的制作成本。",
 
-    "Lighting.name": "照明",
-    "Lighting.description": "减少所需材料，并调整其他配方，使其更加简单且符合常规。",
+    "config.Lighting.name": "照明",
+    "config.Lighting.description": "减少所需材料，并调整其他配方，使其更加简单且符合常规。",
 
-    "Flooring.name": "地板",
-    "Flooring.description": "使用相同资源可制作更多地板。",
+    "config.Flooring.name": "地板",
+    "config.Flooring.description": "使用相同资源可制作更多地板。",
 
-    "Totems.name": "图腾",
-    "Totems.description": "降低制作成本，并替换部分材料，使图腾更容易制作。",
+    "config.Totems.name": "图腾",
+    "config.Totems.description": "降低制作成本，并替换部分材料，使图腾更容易制作。",
 
-    "Bombs.name": "炸弹",
-    "Bombs.description": "降低制作成本并提高制作数量。",
+    "config.Bombs.name": "炸弹",
+    "config.Bombs.description": "降低制作成本并提高制作数量。",
 
-    "Signs.name": "标牌",
-    "Signs.description": "减少制作一个标牌所需的材料。"
+    "config.Signs.name": "标牌",
+    "config.Signs.description": "减少制作一个标牌所需的材料。"
 }

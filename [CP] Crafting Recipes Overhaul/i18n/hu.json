@@ -1,42 +1,42 @@
 //Hungarian Translation
 //hu.json
 {
-    "Chests.name": "Ládák",
-    "Chests.description": "Jelentősen csökkenti mindkét ládatípus elkészítéséhez szükséges alapanyagok mennyiségét.",
+    "config.Chests.name": "Ládák",
+    "config.Chests.description": "Jelentősen csökkenti mindkét ládatípus elkészítéséhez szükséges alapanyagok mennyiségét.",
 
-    "AltFertilizers.name": "Alternatív Trágyák",
-    "AltFertilizers.description": "Alternatív trágyarecepteket ad hozzá más alapanyagok felhasználásával, valamint eltérő feloldási szintekkel.",
+    "config.AltFertilizers.name": "Alternatív Trágyák",
+    "config.AltFertilizers.description": "Alternatív trágyarecepteket ad hozzá más alapanyagok felhasználásával, valamint eltérő feloldási szintekkel.",
 
-    "Sprinklers.name": "Öntözőberendezések",
-    "Sprinklers.description": "Csökkenti az öntözőberendezések elkészítési költségét, és alacsonyabb szinthez köti a receptek feloldását.",
+    "config.Sprinklers.name": "Öntözőberendezések",
+    "config.Sprinklers.description": "Csökkenti az öntözőberendezések elkészítési költségét, és alacsonyabb szinthez köti a receptek feloldását.",
 
-    "AddMoss.name": "Moha Hozzáadása",
-    "AddMoss.description": "Hozzáad egy receptet a moha előállításához a 3. Gyűjtögetés szinten.",
+    "config.AddMoss.name": "Moha Hozzáadása",
+    "config.AddMoss.description": "Hozzáad egy receptet a moha előállításához a 3. Gyűjtögetés szinten.",
 
-    "Fences.name": "Kerítések",
-    "Fences.description": "Növeli az ugyanannyi alapanyagból készíthető kerítések számát.",
+    "config.Fences.name": "Kerítések",
+    "config.Fences.description": "Növeli az ugyanannyi alapanyagból készíthető kerítések számát.",
 
-    "Rings.name": "Gyűrűk",
-    "Rings.description": "Csökkenti a gyűrűk elkészítési költségét.",
+    "config.Rings.name": "Gyűrűk",
+    "config.Rings.description": "Csökkenti a gyűrűk elkészítési költségét.",
 
-    "Baits.name": "Csalik",
-    "Baits.description": "Növeli az ugyanazon alapanyagokból készíthető csalik mennyiségét.",
+    "config.Baits.name": "Csalik",
+    "config.Baits.description": "Növeli az ugyanazon alapanyagokból készíthető csalik mennyiségét.",
 
-    "FishHooks.name": "Horgok",
-    "FishHooks.description": "Csökkenti ezen tárgyak elkészítési költségét.",
+    "config.FishHooks.name": "Horgok",
+    "config.FishHooks.description": "Csökkenti ezen tárgyak elkészítési költségét.",
 
-    "Lighting.name": "Világítás",
-    "Lighting.description": "Csökkenti a felhasznált alapanyagok mennyiségét, és egyszerűbbé, valamint hagyományosabbá teszi a többi receptet.",
+    "config.Lighting.name": "Világítás",
+    "config.Lighting.description": "Csökkenti a felhasznált alapanyagok mennyiségét, és egyszerűbbé, valamint hagyományosabbá teszi a többi receptet.",
 
-    "Flooring.name": "Padlóburkolatok",
-    "Flooring.description": "Növeli az ugyanazon erőforrásokból készíthető padlóburkolatok mennyiségét.",
+    "config.Flooring.name": "Padlóburkolatok",
+    "config.Flooring.description": "Növeli az ugyanazon erőforrásokból készíthető padlóburkolatok mennyiségét.",
 
-    "Totems.name": "Totemek",
-    "Totems.description": "Csökkenti az elkészítési költségeket, és néhány alapanyagot lecserél, hogy a totemek elkészítése könnyebb legyen.",
+    "config.Totems.name": "Totemek",
+    "config.Totems.description": "Csökkenti az elkészítési költségeket, és néhány alapanyagot lecserél, hogy a totemek elkészítése könnyebb legyen.",
 
-    "Bombs.name": "Bombák",
-    "Bombs.description": "Csökkenti a költségeket és növeli az elkészített bombák mennyiségét.",
+    "config.Bombs.name": "Bombák",
+    "config.Bombs.description": "Csökkenti a költségeket és növeli az elkészített bombák mennyiségét.",
 
-    "Signs.name": "Táblák",
-    "Signs.description": "Csökkenti egy tábla elkészítéséhez szükséges alapanyagok mennyiségét."
+    "config.Signs.name": "Táblák",
+    "config.Signs.description": "Csökkenti egy tábla elkészítéséhez szükséges alapanyagok mennyiségét."
 }

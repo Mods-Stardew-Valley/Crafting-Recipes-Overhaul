@@ -1,42 +1,42 @@
 //Japanese Translation
 //ja.json
 {
-    "Chests.name": "チェスト",
-    "Chests.description": "どちらのチェストも、作成に必要な材料を大幅に減らします。",
+    "config.Chests.name": "チェスト",
+    "config.Chests.description": "どちらのチェストも、作成に必要な材料を大幅に減らします。",
 
-    "AltFertilizers.name": "代替肥料",
-    "AltFertilizers.description": "他の素材を使用した代替肥料のレシピを追加し、習得レベルも変更します。",
+    "config.AltFertilizers.name": "代替肥料",
+    "config.AltFertilizers.description": "他の素材を使用した代替肥料のレシピを追加し、習得レベルも変更します。",
 
-    "Sprinklers.name": "スプリンクラー",
-    "Sprinklers.description": "スプリンクラーの作成コストを下げ、レシピの習得レベルを引き下げます。",
+    "config.Sprinklers.name": "スプリンクラー",
+    "config.Sprinklers.description": "スプリンクラーの作成コストを下げ、レシピの習得レベルを引き下げます。",
 
-    "AddMoss.name": "コケを追加",
-    "AddMoss.description": "採取レベル3でコケを作成できるレシピを追加します。",
+    "config.AddMoss.name": "コケを追加",
+    "config.AddMoss.description": "採取レベル3でコケを作成できるレシピを追加します。",
 
-    "Fences.name": "フェンス",
-    "Fences.description": "同じ材料で作成できるフェンスの数量を増やします。",
+    "config.Fences.name": "フェンス",
+    "config.Fences.description": "同じ材料で作成できるフェンスの数量を増やします。",
 
-    "Rings.name": "指輪",
-    "Rings.description": "指輪の作成コストを削減します。",
+    "config.Rings.name": "指輪",
+    "config.Rings.description": "指輪の作成コストを削減します。",
 
-    "Baits.name": "エサ",
-    "Baits.description": "同じ材料で作成できるエサの数量を増やします。",
+    "config.Baits.name": "エサ",
+    "config.Baits.description": "同じ材料で作成できるエサの数量を増やします。",
 
-    "FishHooks.name": "釣り針",
-    "FishHooks.description": "これらのアイテムの作成コストを削減します。",
+    "config.FishHooks.name": "釣り針",
+    "config.FishHooks.description": "これらのアイテムの作成コストを削減します。",
 
-    "Lighting.name": "照明",
-    "Lighting.description": "必要な材料を減らし、他のレシピもより簡単で一般的なものに調整します。",
+    "config.Lighting.name": "照明",
+    "config.Lighting.description": "必要な材料を減らし、他のレシピもより簡単で一般的なものに調整します。",
 
-    "Flooring.name": "床材",
-    "Flooring.description": "同じ資材で作成できる床材の数量を増やします。",
+    "config.Flooring.name": "床材",
+    "config.Flooring.description": "同じ資材で作成できる床材の数量を増やします。",
 
-    "Totems.name": "トーテム",
-    "Totems.description": "作成コストを削減し、一部の材料を変更してトーテムを作りやすくします。",
+    "config.Totems.name": "トーテム",
+    "config.Totems.description": "作成コストを削減し、一部の材料を変更してトーテムを作りやすくします。",
 
-    "Bombs.name": "爆弾",
-    "Bombs.description": "作成コストを削減し、作成できる数量を増やします。",
+    "config.Bombs.name": "爆弾",
+    "config.Bombs.description": "作成コストを削減し、作成できる数量を増やします。",
 
-    "Signs.name": "看板",
-    "Signs.description": "看板1つを作成するために必要な材料を減らします。"
+    "config.Signs.name": "看板",
+    "config.Signs.description": "看板1つを作成するために必要な材料を減らします。"
 }

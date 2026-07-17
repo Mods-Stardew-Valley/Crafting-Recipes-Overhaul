@@ -122,6 +122,8 @@ Itens não alterados
    Bone Mill
    Heavy Tapper
    Hopper
+   Tub o' Flowers
+   Fairy Dust
 
    Statue Of The Dwarf King
 
