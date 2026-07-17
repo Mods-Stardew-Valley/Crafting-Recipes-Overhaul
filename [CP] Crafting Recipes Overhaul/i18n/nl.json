@@ -2,41 +2,41 @@
 //nl.json
 {
     "Chests.name": "Kisten",
-    "Chests.desc": "Vermindert aanzienlijk de hoeveelheid materialen die nodig is om beide soorten kisten te maken.",
+    "Chests.description": "Vermindert aanzienlijk de hoeveelheid materialen die nodig is om beide soorten kisten te maken.",
 
     "AltFertilizers.name": "Alternatieve Meststoffen",
-    "AltFertilizers.desc": "Voegt alternatieve recepten voor meststoffen toe met andere materialen en verschillende ontgrendelingsniveaus.",
+    "AltFertilizers.description": "Voegt alternatieve recepten voor meststoffen toe met andere materialen en verschillende ontgrendelingsniveaus.",
 
     "Sprinklers.name": "Sproeiers",
-    "Sprinklers.desc": "Verlaagt de productiekosten van sproeiers en verlaagt de vereiste niveaus om de recepten vrij te spelen.",
+    "Sprinklers.description": "Verlaagt de productiekosten van sproeiers en verlaagt de vereiste niveaus om de recepten vrij te spelen.",
 
     "AddMoss.name": "Mos Toevoegen",
-    "AddMoss.desc": "Voegt een recept toe om mos te produceren op Verzamelniveau 3.",
+    "AddMoss.description": "Voegt een recept toe om mos te produceren op Verzamelniveau 3.",
 
     "Fences.name": "Hekken",
-    "Fences.desc": "Verhoogt het aantal hekken dat met dezelfde hoeveelheid materialen wordt gemaakt.",
+    "Fences.description": "Verhoogt het aantal hekken dat met dezelfde hoeveelheid materialen wordt gemaakt.",
 
     "Rings.name": "Ringen",
-    "Rings.desc": "Verlaagt de productiekosten van ringen.",
+    "Rings.description": "Verlaagt de productiekosten van ringen.",
 
     "Baits.name": "Aas",
-    "Baits.desc": "Verhoogt de hoeveelheid aas die met dezelfde materialen wordt geproduceerd.",
+    "Baits.description": "Verhoogt de hoeveelheid aas die met dezelfde materialen wordt geproduceerd.",
 
     "FishHooks.name": "Vishaken",
-    "FishHooks.desc": "Verlaagt de productiekosten van deze voorwerpen.",
+    "FishHooks.description": "Verlaagt de productiekosten van deze voorwerpen.",
 
     "Lighting.name": "Verlichting",
-    "Lighting.desc": "Vermindert de hoeveelheid gebruikte ingrediënten en past andere recepten aan om ze eenvoudiger en gebruikelijker te maken.",
+    "Lighting.description": "Vermindert de hoeveelheid gebruikte ingrediënten en past andere recepten aan om ze eenvoudiger en gebruikelijker te maken.",
 
     "Flooring.name": "Vloeren",
-    "Flooring.desc": "Verhoogt de hoeveelheid die met dezelfde grondstoffen wordt gemaakt.",
+    "Flooring.description": "Verhoogt de hoeveelheid die met dezelfde grondstoffen wordt gemaakt.",
 
     "Totems.name": "Totems",
-    "Totems.desc": "Verlaagt de productiekosten en vervangt sommige materialen om de productie van totems eenvoudiger te maken.",
+    "Totems.description": "Verlaagt de productiekosten en vervangt sommige materialen om de productie van totems eenvoudiger te maken.",
 
     "Bombs.name": "Bommen",
-    "Bombs.desc": "Verlaagt de kosten en verhoogt de geproduceerde hoeveelheid.",
+    "Bombs.description": "Verlaagt de kosten en verhoogt de geproduceerde hoeveelheid.",
 
     "Signs.name": "Borden",
-    "Signs.desc": "Vermindert de hoeveelheid materialen die nodig is om een bord te maken."
+    "Signs.description": "Vermindert de hoeveelheid materialen die nodig is om een bord te maken."
 }

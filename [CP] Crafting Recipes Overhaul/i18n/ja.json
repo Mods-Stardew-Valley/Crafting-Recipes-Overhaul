@@ -2,41 +2,41 @@
 //ja.json
 {
     "Chests.name": "チェスト",
-    "Chests.desc": "どちらのチェストも、作成に必要な材料を大幅に減らします。",
+    "Chests.description": "どちらのチェストも、作成に必要な材料を大幅に減らします。",
 
     "AltFertilizers.name": "代替肥料",
-    "AltFertilizers.desc": "他の素材を使用した代替肥料のレシピを追加し、習得レベルも変更します。",
+    "AltFertilizers.description": "他の素材を使用した代替肥料のレシピを追加し、習得レベルも変更します。",
 
     "Sprinklers.name": "スプリンクラー",
-    "Sprinklers.desc": "スプリンクラーの作成コストを下げ、レシピの習得レベルを引き下げます。",
+    "Sprinklers.description": "スプリンクラーの作成コストを下げ、レシピの習得レベルを引き下げます。",
 
     "AddMoss.name": "コケを追加",
-    "AddMoss.desc": "採取レベル3でコケを作成できるレシピを追加します。",
+    "AddMoss.description": "採取レベル3でコケを作成できるレシピを追加します。",
 
     "Fences.name": "フェンス",
-    "Fences.desc": "同じ材料で作成できるフェンスの数量を増やします。",
+    "Fences.description": "同じ材料で作成できるフェンスの数量を増やします。",
 
     "Rings.name": "指輪",
-    "Rings.desc": "指輪の作成コストを削減します。",
+    "Rings.description": "指輪の作成コストを削減します。",
 
     "Baits.name": "エサ",
-    "Baits.desc": "同じ材料で作成できるエサの数量を増やします。",
+    "Baits.description": "同じ材料で作成できるエサの数量を増やします。",
 
     "FishHooks.name": "釣り針",
-    "FishHooks.desc": "これらのアイテムの作成コストを削減します。",
+    "FishHooks.description": "これらのアイテムの作成コストを削減します。",
 
     "Lighting.name": "照明",
-    "Lighting.desc": "必要な材料を減らし、他のレシピもより簡単で一般的なものに調整します。",
+    "Lighting.description": "必要な材料を減らし、他のレシピもより簡単で一般的なものに調整します。",
 
     "Flooring.name": "床材",
-    "Flooring.desc": "同じ資材で作成できる床材の数量を増やします。",
+    "Flooring.description": "同じ資材で作成できる床材の数量を増やします。",
 
     "Totems.name": "トーテム",
-    "Totems.desc": "作成コストを削減し、一部の材料を変更してトーテムを作りやすくします。",
+    "Totems.description": "作成コストを削減し、一部の材料を変更してトーテムを作りやすくします。",
 
     "Bombs.name": "爆弾",
-    "Bombs.desc": "作成コストを削減し、作成できる数量を増やします。",
+    "Bombs.description": "作成コストを削減し、作成できる数量を増やします。",
 
     "Signs.name": "看板",
-    "Signs.desc": "看板1つを作成するために必要な材料を減らします。"
+    "Signs.description": "看板1つを作成するために必要な材料を減らします。"
 }

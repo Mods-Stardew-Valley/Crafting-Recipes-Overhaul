@@ -2,41 +2,41 @@
 //de.json
 {
     "Chests.name": "Truhen",
-    "Chests.desc": "Reduziert die benötigte Materialmenge für die Herstellung beider Truhen erheblich.",
+    "Chests.description": "Reduziert die benötigte Materialmenge für die Herstellung beider Truhen erheblich.",
 
     "AltFertilizers.name": "Alternative Dünger",
-    "AltFertilizers.desc": "Fügt alternative Rezepte für Dünger mit anderen Materialien sowie unterschiedliche Freischaltstufen hinzu.",
+    "AltFertilizers.description": "Fügt alternative Rezepte für Dünger mit anderen Materialien sowie unterschiedliche Freischaltstufen hinzu.",
 
     "Sprinklers.name": "Sprinkler",
-    "Sprinklers.desc": "Reduziert die Herstellungskosten der Sprinkler und senkt die erforderlichen Stufen zum Freischalten der Rezepte.",
+    "Sprinklers.description": "Reduziert die Herstellungskosten der Sprinkler und senkt die erforderlichen Stufen zum Freischalten der Rezepte.",
 
     "AddMoss.name": "Moos Hinzufügen",
-    "AddMoss.desc": "Fügt ein Rezept zur Herstellung von Moos auf Sammeln-Stufe 3 hinzu.",
+    "AddMoss.description": "Fügt ein Rezept zur Herstellung von Moos auf Sammeln-Stufe 3 hinzu.",
 
     "Fences.name": "Zäune",
-    "Fences.desc": "Erhöht die Anzahl der hergestellten Zäune mit derselben Materialmenge.",
+    "Fences.description": "Erhöht die Anzahl der hergestellten Zäune mit derselben Materialmenge.",
 
     "Rings.name": "Ringe",
-    "Rings.desc": "Reduziert die Herstellungskosten der Ringe.",
+    "Rings.description": "Reduziert die Herstellungskosten der Ringe.",
 
     "Baits.name": "Köder",
-    "Baits.desc": "Erhöht die produzierte Ködermenge mit denselben Materialien.",
+    "Baits.description": "Erhöht die produzierte Ködermenge mit denselben Materialien.",
 
     "FishHooks.name": "Angelhaken",
-    "FishHooks.desc": "Reduziert die Herstellungskosten dieser Gegenstände.",
+    "FishHooks.description": "Reduziert die Herstellungskosten dieser Gegenstände.",
 
     "Lighting.name": "Beleuchtung",
-    "Lighting.desc": "Reduziert die benötigten Zutaten und passt andere Rezepte an, um sie einfacher und üblicher zu gestalten.",
+    "Lighting.description": "Reduziert die benötigten Zutaten und passt andere Rezepte an, um sie einfacher und üblicher zu gestalten.",
 
     "Flooring.name": "Bodenbeläge",
-    "Flooring.desc": "Erhöht die hergestellte Menge mit denselben Ressourcen.",
+    "Flooring.description": "Erhöht die hergestellte Menge mit denselben Ressourcen.",
 
     "Totems.name": "Totems",
-    "Totems.desc": "Reduziert die Herstellungskosten und ersetzt einige Materialien, um die Herstellung der Totems zu erleichtern.",
+    "Totems.description": "Reduziert die Herstellungskosten und ersetzt einige Materialien, um die Herstellung der Totems zu erleichtern.",
 
     "Bombs.name": "Bomben",
-    "Bombs.desc": "Reduziert die Kosten und erhöht die produzierte Menge.",
+    "Bombs.description": "Reduziert die Kosten und erhöht die produzierte Menge.",
 
     "Signs.name": "Schilder",
-    "Signs.desc": "Reduziert die benötigte Materialmenge für die Herstellung eines Schildes."
+    "Signs.description": "Reduziert die benötigte Materialmenge für die Herstellung eines Schildes."
 }

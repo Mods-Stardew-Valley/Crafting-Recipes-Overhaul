@@ -2,41 +2,41 @@
 //pl.json
 {
     "Chests.name": "Skrzynie",
-    "Chests.desc": "Znacznie zmniejsza ilość materiałów potrzebnych do wykonania obu rodzajów skrzyń.",
+    "Chests.description": "Znacznie zmniejsza ilość materiałów potrzebnych do wykonania obu rodzajów skrzyń.",
 
     "AltFertilizers.name": "Alternatywne Nawozy",
-    "AltFertilizers.desc": "Dodaje alternatywne receptury nawozów wykorzystujące inne materiały oraz zmienia poziomy ich odblokowania.",
+    "AltFertilizers.description": "Dodaje alternatywne receptury nawozów wykorzystujące inne materiały oraz zmienia poziomy ich odblokowania.",
 
     "Sprinklers.name": "Zraszacze",
-    "Sprinklers.desc": "Obniża koszt wytwarzania zraszaczy i zmniejsza wymagany poziom do odblokowania receptur.",
+    "Sprinklers.description": "Obniża koszt wytwarzania zraszaczy i zmniejsza wymagany poziom do odblokowania receptur.",
 
     "AddMoss.name": "Dodaj Mech",
-    "AddMoss.desc": "Dodaje recepturę na wytwarzanie mchu na 3. poziomie Zbieractwa.",
+    "AddMoss.description": "Dodaje recepturę na wytwarzanie mchu na 3. poziomie Zbieractwa.",
 
     "Fences.name": "Ogrodzenia",
-    "Fences.desc": "Zwiększa liczbę ogrodzeń wytwarzanych z tej samej ilości materiałów.",
+    "Fences.description": "Zwiększa liczbę ogrodzeń wytwarzanych z tej samej ilości materiałów.",
 
     "Rings.name": "Pierścienie",
-    "Rings.desc": "Obniża koszt wytwarzania pierścieni.",
+    "Rings.description": "Obniża koszt wytwarzania pierścieni.",
 
     "Baits.name": "Przynęty",
-    "Baits.desc": "Zwiększa ilość przynęt wytwarzanych z tych samych materiałów.",
+    "Baits.description": "Zwiększa ilość przynęt wytwarzanych z tych samych materiałów.",
 
     "FishHooks.name": "Haczyki",
-    "FishHooks.desc": "Obniża koszt wytwarzania tych przedmiotów.",
+    "FishHooks.description": "Obniża koszt wytwarzania tych przedmiotów.",
 
     "Lighting.name": "Oświetlenie",
-    "Lighting.desc": "Zmniejsza ilość wymaganych składników i dostosowuje inne receptury, aby były prostsze i bardziej standardowe.",
+    "Lighting.description": "Zmniejsza ilość wymaganych składników i dostosowuje inne receptury, aby były prostsze i bardziej standardowe.",
 
     "Flooring.name": "Podłogi",
-    "Flooring.desc": "Zwiększa ilość wytwarzanych podłóg przy użyciu tych samych zasobów.",
+    "Flooring.description": "Zwiększa ilość wytwarzanych podłóg przy użyciu tych samych zasobów.",
 
     "Totems.name": "Totemy",
-    "Totems.desc": "Obniża koszty wytwarzania i zastępuje niektóre materiały, aby ułatwić tworzenie totemów.",
+    "Totems.description": "Obniża koszty wytwarzania i zastępuje niektóre materiały, aby ułatwić tworzenie totemów.",
 
     "Bombs.name": "Bomby",
-    "Bombs.desc": "Obniża koszty i zwiększa liczbę wytwarzanych bomb.",
+    "Bombs.description": "Obniża koszty i zwiększa liczbę wytwarzanych bomb.",
 
     "Signs.name": "Znaki",
-    "Signs.desc": "Zmniejsza ilość materiałów potrzebnych do wykonania jednego znaku."
+    "Signs.description": "Zmniejsza ilość materiałów potrzebnych do wykonania jednego znaku."
 }

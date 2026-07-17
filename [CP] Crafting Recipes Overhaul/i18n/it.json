@@ -2,41 +2,41 @@
 //it.json
 {
     "Chests.name": "Bauli",
-    "Chests.desc": "Riduce notevolmente la quantità di materiali necessaria per costruire entrambi i tipi di baule.",
+    "Chests.description": "Riduce notevolmente la quantità di materiali necessaria per costruire entrambi i tipi di baule.",
 
     "AltFertilizers.name": "Fertilizzanti Alternativi",
-    "AltFertilizers.desc": "Aggiunge ricette alternative per i fertilizzanti utilizzando altri materiali e diversi livelli di sblocco.",
+    "AltFertilizers.description": "Aggiunge ricette alternative per i fertilizzanti utilizzando altri materiali e diversi livelli di sblocco.",
 
     "Sprinklers.name": "Irrigatori",
-    "Sprinklers.desc": "Riduce il costo di produzione degli irrigatori e abbassa i livelli necessari per sbloccare le ricette.",
+    "Sprinklers.description": "Riduce il costo di produzione degli irrigatori e abbassa i livelli necessari per sbloccare le ricette.",
 
     "AddMoss.name": "Aggiungi Muschio",
-    "AddMoss.desc": "Aggiunge una ricetta per produrre muschio al livello 3 di Raccolta.",
+    "AddMoss.description": "Aggiunge una ricetta per produrre muschio al livello 3 di Raccolta.",
 
     "Fences.name": "Recinzioni",
-    "Fences.desc": "Aumenta il numero di recinzioni prodotte con la stessa quantità di materiali.",
+    "Fences.description": "Aumenta il numero di recinzioni prodotte con la stessa quantità di materiali.",
 
     "Rings.name": "Anelli",
-    "Rings.desc": "Riduce il costo di produzione degli anelli.",
+    "Rings.description": "Riduce il costo di produzione degli anelli.",
 
     "Baits.name": "Esche",
-    "Baits.desc": "Aumenta la quantità di esche prodotte con gli stessi materiali.",
+    "Baits.description": "Aumenta la quantità di esche prodotte con gli stessi materiali.",
 
     "FishHooks.name": "Ami",
-    "FishHooks.desc": "Riduce i costi di produzione di questi oggetti.",
+    "FishHooks.description": "Riduce i costi di produzione di questi oggetti.",
 
     "Lighting.name": "Illuminazione",
-    "Lighting.desc": "Riduce la quantità di ingredienti utilizzati e adatta altre ricette per renderle più semplici e convenzionali.",
+    "Lighting.description": "Riduce la quantità di ingredienti utilizzati e adatta altre ricette per renderle più semplici e convenzionali.",
 
     "Flooring.name": "Pavimentazioni",
-    "Flooring.desc": "Aumenta la quantità prodotta utilizzando le stesse risorse.",
+    "Flooring.description": "Aumenta la quantità prodotta utilizzando le stesse risorse.",
 
     "Totems.name": "Totem",
-    "Totems.desc": "Riduce i costi di produzione e sostituisce alcuni materiali per rendere più semplice la creazione dei totem.",
+    "Totems.description": "Riduce i costi di produzione e sostituisce alcuni materiali per rendere più semplice la creazione dei totem.",
 
     "Bombs.name": "Bombe",
-    "Bombs.desc": "Riduce i costi e aumenta la quantità prodotta.",
+    "Bombs.description": "Riduce i costi e aumenta la quantità prodotta.",
 
     "Signs.name": "Cartelli",
-    "Signs.desc": "Riduce la quantità di materiali necessaria per costruire un cartello."
+    "Signs.description": "Riduce la quantità di materiali necessaria per costruire un cartello."
 }

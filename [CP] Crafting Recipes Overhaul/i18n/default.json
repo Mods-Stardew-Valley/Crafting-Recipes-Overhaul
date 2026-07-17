@@ -2,41 +2,41 @@
 //default.json
 {
     "Chests.name": "Chests",
-    "Chests.desc": "Significantly reduces the amount of material needed to produce either chest.",
+    "Chests.description": "Significantly reduces the amount of material needed to produce either chest.",
 
     "AltFertilizers.name": "Alternative Fertilizers",
-    "AltFertilizers.desc": "Adds alternative recipes for fertilizers using other materials, and different levels for unlocking them.",
+    "AltFertilizers.description": "Adds alternative recipes for fertilizers using other materials, and different levels for unlocking them.",
 
     "Sprinklers.name": "Sprinklers",
-    "Sprinklers.desc": "Reduces the production cost of sprinklers and lowers the thresholds for unlocking the recipe.",
+    "Sprinklers.description": "Reduces the production cost of sprinklers and lowers the thresholds for unlocking the recipe.",
 
     "AddMoss.name": "Add Moss",
-    "AddMoss.desc": "Adds a recipe for moss production at foraging level 3.",
+    "AddMoss.description": "Adds a recipe for moss production at foraging level 3.",
 
     "Fences.name": "Fences",
-    "Fences.desc": "Increases the number of fences produced with the same amount of material.",
+    "Fences.description": "Increases the number of fences produced with the same amount of material.",
 
     "Rings.name": "Rings",
-    "Rings.desc": "Reduces the production cost for the rings.",
+    "Rings.description": "Reduces the production cost for the rings.",
     
     "Baits.name": "Baits",
-    "Baits.desc": "Increases the quantity of bait produced with the same materials.",
+    "Baits.description": "Increases the quantity of bait produced with the same materials.",
 
     "FishHooks.name": "Fishhooks",
-    "FishHooks.desc": "Reduces the production costs of the items.",
+    "FishHooks.description": "Reduces the production costs of the items.",
 
     "Lighting.name": "Lighting",
-    "Lighting.desc": "Reduces the amount of ingredients used and adapts other recipes to make them easier and more conventional.",
+    "Lighting.description": "Reduces the amount of ingredients used and adapts other recipes to make them easier and more conventional.",
 
     "Flooring.name": "Flooring",
-    "Flooring.desc": "Increases the quantity created with the same resources.",
+    "Flooring.description": "Increases the quantity created with the same resources.",
 
     "Totems.name": "Totems",
-    "Totems.desc": "Reduces production costs and substitutes some materials to make the production of the Totems easier.",
+    "Totems.description": "Reduces production costs and substitutes some materials to make the production of the Totems easier.",
 
     "Bombs.name": "Bombs",
-    "Bombs.desc": "Reduced costs and increased production.",
+    "Bombs.description": "Reduced costs and increased production.",
 
     "Signs.name": "Signs",
-    "Signs.desc": "Reduces the amount of material needed to produce one sign."
+    "Signs.description": "Reduces the amount of material needed to produce one sign."
 }

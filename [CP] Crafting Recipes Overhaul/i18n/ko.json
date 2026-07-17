@@ -2,41 +2,41 @@
 //ko.json
 {
     "Chests.name": "상자",
-    "Chests.desc": "두 종류의 상자를 제작하는 데 필요한 재료를 크게 줄입니다.",
+    "Chests.description": "두 종류의 상자를 제작하는 데 필요한 재료를 크게 줄입니다.",
 
     "AltFertilizers.name": "대체 비료",
-    "AltFertilizers.desc": "다른 재료를 사용하는 대체 비료 제작법과 새로운 해금 레벨을 추가합니다.",
+    "AltFertilizers.description": "다른 재료를 사용하는 대체 비료 제작법과 새로운 해금 레벨을 추가합니다.",
 
     "Sprinklers.name": "스프링클러",
-    "Sprinklers.desc": "스프링클러 제작 비용을 줄이고 제작법 해금 레벨을 낮춥니다.",
+    "Sprinklers.description": "스프링클러 제작 비용을 줄이고 제작법 해금 레벨을 낮춥니다.",
 
     "AddMoss.name": "이끼 추가",
-    "AddMoss.desc": "채집 레벨 3에서 이끼를 제작할 수 있는 제작법을 추가합니다.",
+    "AddMoss.description": "채집 레벨 3에서 이끼를 제작할 수 있는 제작법을 추가합니다.",
 
     "Fences.name": "울타리",
-    "Fences.desc": "같은 재료로 더 많은 울타리를 제작할 수 있습니다.",
+    "Fences.description": "같은 재료로 더 많은 울타리를 제작할 수 있습니다.",
 
     "Rings.name": "반지",
-    "Rings.desc": "반지의 제작 비용을 줄입니다.",
+    "Rings.description": "반지의 제작 비용을 줄입니다.",
 
     "Baits.name": "미끼",
-    "Baits.desc": "같은 재료로 더 많은 미끼를 제작할 수 있습니다.",
+    "Baits.description": "같은 재료로 더 많은 미끼를 제작할 수 있습니다.",
 
     "FishHooks.name": "낚싯바늘",
-    "FishHooks.desc": "이 아이템들의 제작 비용을 줄입니다.",
+    "FishHooks.description": "이 아이템들의 제작 비용을 줄입니다.",
 
     "Lighting.name": "조명",
-    "Lighting.desc": "필요한 재료의 양을 줄이고 다른 제작법도 더 쉽고 일반적인 방식으로 조정합니다.",
+    "Lighting.description": "필요한 재료의 양을 줄이고 다른 제작법도 더 쉽고 일반적인 방식으로 조정합니다.",
 
     "Flooring.name": "바닥재",
-    "Flooring.desc": "같은 재료로 더 많은 바닥재를 제작할 수 있습니다.",
+    "Flooring.description": "같은 재료로 더 많은 바닥재를 제작할 수 있습니다.",
 
     "Totems.name": "토템",
-    "Totems.desc": "제작 비용을 줄이고 일부 재료를 변경하여 토템을 더 쉽게 제작할 수 있습니다.",
+    "Totems.description": "제작 비용을 줄이고 일부 재료를 변경하여 토템을 더 쉽게 제작할 수 있습니다.",
 
     "Bombs.name": "폭탄",
-    "Bombs.desc": "제작 비용을 줄이고 생산량을 늘립니다.",
+    "Bombs.description": "제작 비용을 줄이고 생산량을 늘립니다.",
 
     "Signs.name": "표지판",
-    "Signs.desc": "표지판 하나를 제작하는 데 필요한 재료를 줄입니다."
+    "Signs.description": "표지판 하나를 제작하는 데 필요한 재료를 줄입니다."
 }

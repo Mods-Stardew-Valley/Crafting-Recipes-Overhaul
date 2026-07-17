@@ -2,41 +2,41 @@
 //tr.json
 {
     "Chests.name": "Sandıklar",
-    "Chests.desc": "Her iki sandık türünü üretmek için gereken malzeme miktarını önemli ölçüde azaltır.",
+    "Chests.description": "Her iki sandık türünü üretmek için gereken malzeme miktarını önemli ölçüde azaltır.",
 
     "AltFertilizers.name": "Alternatif Gübreler",
-    "AltFertilizers.desc": "Farklı malzemeler kullanan alternatif gübre tarifleri ve bunlar için farklı açılma seviyeleri ekler.",
+    "AltFertilizers.description": "Farklı malzemeler kullanan alternatif gübre tarifleri ve bunlar için farklı açılma seviyeleri ekler.",
 
     "Sprinklers.name": "Fıskiyeler",
-    "Sprinklers.desc": "Fıskiyelerin üretim maliyetini düşürür ve tariflerin açılma seviyelerini azaltır.",
+    "Sprinklers.description": "Fıskiyelerin üretim maliyetini düşürür ve tariflerin açılma seviyelerini azaltır.",
 
     "AddMoss.name": "Yosun Ekle",
-    "AddMoss.desc": "Toplayıcılık seviyesi 3'te yosun üretimi için bir tarif ekler.",
+    "AddMoss.description": "Toplayıcılık seviyesi 3'te yosun üretimi için bir tarif ekler.",
 
     "Fences.name": "Çitler",
-    "Fences.desc": "Aynı miktarda malzemeyle üretilen çit sayısını artırır.",
+    "Fences.description": "Aynı miktarda malzemeyle üretilen çit sayısını artırır.",
 
     "Rings.name": "Yüzükler",
-    "Rings.desc": "Yüzüklerin üretim maliyetini azaltır.",
+    "Rings.description": "Yüzüklerin üretim maliyetini azaltır.",
 
     "Baits.name": "Yemler",
-    "Baits.desc": "Aynı malzemelerle üretilen yem miktarını artırır.",
+    "Baits.description": "Aynı malzemelerle üretilen yem miktarını artırır.",
 
     "FishHooks.name": "Olta Kancaları",
-    "FishHooks.desc": "Bu eşyaların üretim maliyetlerini azaltır.",
+    "FishHooks.description": "Bu eşyaların üretim maliyetlerini azaltır.",
 
     "Lighting.name": "Aydınlatma",
-    "Lighting.desc": "Kullanılan malzeme miktarını azaltır ve diğer tarifleri daha kolay ve daha geleneksel hâle getirir.",
+    "Lighting.description": "Kullanılan malzeme miktarını azaltır ve diğer tarifleri daha kolay ve daha geleneksel hâle getirir.",
 
     "Flooring.name": "Zemin Kaplamaları",
-    "Flooring.desc": "Aynı kaynaklarla üretilen miktarı artırır.",
+    "Flooring.description": "Aynı kaynaklarla üretilen miktarı artırır.",
 
     "Totems.name": "Totemler",
-    "Totems.desc": "Üretim maliyetlerini düşürür ve bazı malzemeleri değiştirerek totemlerin üretimini kolaylaştırır.",
+    "Totems.description": "Üretim maliyetlerini düşürür ve bazı malzemeleri değiştirerek totemlerin üretimini kolaylaştırır.",
 
     "Bombs.name": "Bombalar",
-    "Bombs.desc": "Maliyetleri azaltır ve üretilen miktarı artırır.",
+    "Bombs.description": "Maliyetleri azaltır ve üretilen miktarı artırır.",
 
     "Signs.name": "Tabelalar",
-    "Signs.desc": "Bir tabela üretmek için gereken malzeme miktarını azaltır."
+    "Signs.description": "Bir tabela üretmek için gereken malzeme miktarını azaltır."
 }
